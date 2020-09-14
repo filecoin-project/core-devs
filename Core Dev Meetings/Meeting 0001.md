@@ -1,6 +1,6 @@
 # Filecoin Core Devs Meeting #1 - 2020-09-11
 - Meeting Date/Time: **Friday 11 September 2020, [17:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/17-00)**
-- Meeting Recording: TODO
+- Meeting Recording: https://youtu.be/BB6uiZ0h35g
 - Attendance: Forest (Chainsafe), Fuhon (Soramitsu), Lotus (PL)
 
 ## Agenda
@@ -36,7 +36,7 @@
         *   Currently message and tipset
         *   Block sequence vector coming early next week
         *   Addresses set of raw blocks arriving from the network at offsets from genesis
-            *   Preconditions: genesis car, &lt;todo>
+            *   Preconditions: genesis car
             *   Tuples of timestamps with raw block (failed sigs, failed randomness)
             *   Spec-ing out a set of functions for raw byte behavior
             *   Control the output of the test without full past
