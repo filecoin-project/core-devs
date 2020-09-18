@@ -1,7 +1,7 @@
 ## Core Devs Meetings
 
 ### Purpose
-The core devs meeting is a technical meeting intended to bring together various Filecoin teams who play major roles in determining the direction of the protocol. Filecoin implementation and research teams provide updates to their projects, discuss various [FIPs](https://github.com/filecoin-project/FIPs) to improve the protocol, and support each other as we build a decentralized, efficient, and robust foundation for humanity’s information.
+The core devs meeting is a technical meeting intended to bring together various Filecoin teams who play major roles in determining the direction of the protocol. Filecoin implementation and research teams provide updates to their projects, discuss the implementation of various [FIPs](https://github.com/filecoin-project/FIPs) to improve the protocol, and support each other as we build a decentralized, efficient, and robust foundation for humanity’s information.
 
 ### Previous Meetings
 
