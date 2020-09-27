@@ -1,6 +1,6 @@
 ## Filecoin Core Devs Meeting #2 - 2020-09-25
 - Meeting Date/Time: **Friday 25 September 2020, [17:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/17-00)**
-- Meeting Recording: TODO
+- Meeting Recording: https://youtu.be/2xk1PWYqhxU
 - Attendance: Forest (Chainsafe), Fuhon (Soramitsu), Lotus (PL)
 
 #### Agenda
