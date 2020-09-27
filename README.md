@@ -9,6 +9,7 @@ The core devs meeting is a technical meeting intended to bring together various 
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
   1 | Friday, September 11, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/1) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200001.md) | [recording](https://youtu.be/BB6uiZ0h35g) |
   2 | Friday, September 25, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/3) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200002.md) | [recording](https://youtu.be/2xk1PWYqhxU) |
+  3 | Thursday, October 8, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/5) | notes todo | recording todo |
 
 
 ### Who Can Attend
