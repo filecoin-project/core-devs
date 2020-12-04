@@ -1,7 +1,7 @@
 # Filecoin Core Devs Meeting #4 - 2020-10-22
 
 - Meeting Date/Time: **Thursday 22 October 2020, [16:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/16-00)**
-- Meeting Recording: https://youtu.be/ExFBGD3sjHk
+- Meeting Recording: https://youtu.be/58b8TY9LJaM
 - Attendance: Forest (Chainsafe), Fuhon (Soramitsu), Lotus (PL),  Venus (IPFSForce)
 
 ## Agenda
