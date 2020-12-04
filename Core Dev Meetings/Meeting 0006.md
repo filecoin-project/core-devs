@@ -9,7 +9,7 @@ Agenda
     *   [Venus](https://github.com/filecoin-project/go-filecoin)
 *   Upcoming state upgrades
     *   1.2.0
-        *   Contains FIP 5 and 6
+        *   Contains FIP 5 
 *   Test vectors update
 *   Review of open FIP PRs
 *   Review of changes to FIP Process
