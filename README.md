@@ -13,7 +13,7 @@ The core devs meeting is a technical meeting intended to bring together various 
   4 | Thursday, October 22, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/7) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200004.md) | [recording](https://youtu.be/58b8TY9LJaM) |
   5 | Thursday, November 5, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/9) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200005.md) | [recording](https://youtu.be/jCJFhhR0gW8) |
   6 | Thursday, November 19, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/13) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200006.md) | [recording](https://youtu.be/t9W4Yl4sgwY) |
-  7 | Thursday, December 3, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/15) | notes todo | [recording](https://www.youtube.com/watch?v=4naFxk_mcLc) |
+  7 | Thursday, December 3, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/15) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200007.md) | [recording](https://www.youtube.com/watch?v=4naFxk_mcLc) |
 
 ### Who Can Attend
 Low-level protocol developers, implementation developers, and core Filecoin researchers are invited to attend the meetings. Generally every Filecoin implementation  is represented, along with key members of research/scaling teams. Sometimes, a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [team@filecoin.io](mailto:team@filecoin.io).
