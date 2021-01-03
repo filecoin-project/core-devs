@@ -14,6 +14,7 @@ The core devs meeting is a technical meeting intended to bring together various 
   5 | Thursday, November 5, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/9) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200005.md) | [recording](https://youtu.be/jCJFhhR0gW8) |
   6 | Thursday, November 19, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/13) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200006.md) | [recording](https://youtu.be/t9W4Yl4sgwY) |
   7 | Thursday, December 3, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/15) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200007.md) | [recording](https://www.youtube.com/watch?v=4naFxk_mcLc) |
+  8 | Thursday, December 17, 2020       | [agenda](https://github.com/filecoin-project/tpm/issues/20) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200008.md) | [recording](https://www.youtube.com/watch?v=DqKlP33qi4c) |
 
 ### Who Can Attend
 Low-level protocol developers, implementation developers, and core Filecoin researchers are invited to attend the meetings. Generally every Filecoin implementation  is represented, along with key members of research/scaling teams. Sometimes, a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [team@filecoin.io](mailto:team@filecoin.io).
@@ -25,5 +26,5 @@ Agendas are posted to https://github.com/filecoin-project/tpm/issues. Anyone is 
 - The topic should not be philosophical. The core developer meetings are not meant to decide philosophical contentious issues that should be decided by the community. There are exceptions to this, but generally these topics distract from more productive technical discussion.
 
 ### Who Manages the Meetings
-As of September 2020, [@momack2](https://github.com/momack2) facilitates meetings, handles recordings, and publishes notes from the meetings.
+As of January 2021, [@arajasek](https://github.com/arajasek) facilitates meetings, handles recordings, and publishes notes from the meetings.
 The meetings are independent of any organization. However, Protocol Labs pays for the videoconference software used in the meetings. See the IPFS [Host a Call](https://github.com/ipfs/team-mgmt/blob/master/HOST_A_CALL.md) instructions for guides on how to configure livestreaming.
