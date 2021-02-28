@@ -1,10 +1,10 @@
 # Filecoin Core Devs Meeting #9 - 2021-01-14
 
-- Meeting Date/Time: **Thursday 17 December 2020, [16:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/16-00)**
+- Meeting Date/Time: **Thursday 14 January 2021, [16:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/16-00)**
 - Meeting Recording: https://youtu.be/Rrw_y-YLeYM
 - Attendance: Forest (Chainsafe), Fuhon (Soramitsu), Lotus (PL),  Venus (IPFSForce)
 
-[December 19th chain halt]
+December 19th chain halt
 
 - Network experienced a chain halt on December 19th due to a nondeterminism bug in specs-actors
 - Incident report may be found [here](https://status.filecoin.io/incidents/ffhr434cd14c), and blog can be found [here](https://filecoin.io/blog/posts/resolving-the-dec-19-chain-halt-cause-impact-take-aways/) 
