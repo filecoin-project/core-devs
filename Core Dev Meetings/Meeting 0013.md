@@ -31,7 +31,7 @@ Interopnet
 
 Next network upgrade
 
-- Would be good to have an upgrade that introduces FIP-0014 by early June
+- Would be good to have an upgrade that introduces FIP-0013 by early June
 - This would need v4 actors
 - Steven suggests maintaining a regular upgrade schedule (perhaps one per quarter)
 - Smaller one-off upgrades to accommodate network developments & security concerns can be independently handled
