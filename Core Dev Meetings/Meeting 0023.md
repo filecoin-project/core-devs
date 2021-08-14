@@ -4,12 +4,6 @@
 - Meeting Recording: https://youtu.be/Ni2DrljIhic
 - Attendance: Forest (Chainsafe), Fuhon (Soramitsu), Lotus (PL), Venus (IPFSForce), Filecoin Foundation and Community representatives
 
-# Filecoin Core Devs Meeting #23 - 2021-07-15
-
-- Meeting Date/Time: **Thursday, July 29  2021, [16:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/16-00)**
-- Meeting Recording:
-- Attendance: Forest (Chainsafe), Fuhon (Soramitsu), Lotus (PL), Venus (IPFSForce), Filecoin Foundation, and Community representatives
-
 ### Updates for this week
 
 Lotus:
