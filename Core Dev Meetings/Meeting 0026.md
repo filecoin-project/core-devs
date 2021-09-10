@@ -27,14 +27,14 @@ Filecoin Foundation:
 
 Upcoming small- and medium-sized network enhancements for Fall 2021
 - A mid-Autumn implementation will include small upgrades from backlogged FIPs.
-- One improvement which will be made will the [tipset tie-break rule](https://github.com/filecoin-project/FIPs/pull/156/commits/84546c4e8ae0216009219c073cc88c2803293492), which helps the network decide between forks of equal weight and reach consensus more quickly.
+- One improvement which will be made is the [tipset tie-break rule](https://github.com/filecoin-project/FIPs/pull/156/commits/84546c4e8ae0216009219c073cc88c2803293492), which helps the network decide between forks of equal weight and reach consensus more quickly.
 
 Review of upcoming FIPs & existing PRs
-- With new clients onboarding to the network, there is a focus on improving the dealmaking workflow to make for smoother execution.  
+- With new clients onboarding to the network there is a focus on improving the dealmaking workflow to make for smoother execution.  
 - To address this, the following FIPs have/will be drafted: 
     - [A FIP to help deals succeed](https://github.com/filecoin-project/FIPs/issues/152), even if individual DealIDs in the sector expire between PreCommit and ProveCommit 
     - [A FIP to help publish all valid deals](https://github.com/filecoin-project/FIPs/issues/142) attached to a PublishStorageDeals message, even if a bad deal is present in the sector. 
-    - [A FIP to help clarify how much $FIL has been withdrawn](https://github.com/filecoin-project/FIPs/issues/26) an actor during dealmaking. 
+    - [A FIP to help clarify how much $FIL has been withdrawn](https://github.com/filecoin-project/FIPs/issues/26) from an actor during dealmaking. 
 
 Discussion: Filecoin Funding DevGrants proposal
 - A team of developers (contact: @CatTheHunter) has submitted [a DevGrants proposal](https://github.com/catthehunter/devgrants/blob/patch-2/open-grant-proposals/Filecoin%20Financing%20Plan.md) for building a $FIL lending mechanism into the protocol. 
