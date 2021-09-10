@@ -31,9 +31,10 @@ The core devs meeting is a technical meeting intended to bring together various 
   22 | Thursday, July 15, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/52) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200022.md) | [recording](https://www.youtube.com/watch?v=DGrBmODsgWE) |
   23 | Thursday, July 29, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/55) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200023.md) | [recording](https://www.youtube.com/watch?v=Ni2DrljIhic) |
   24 | Thursday, August 12, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/58) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200024.md) | [recording](https://www.youtube.com/watch?v=PrALVljYYGY) |
+  25 | Thursday, August 26, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/59) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200025.md) | [recording](https://www.youtube.com/watch?v=LpvGVmTYBCg) |
 
 ### Who Can Attend
-Low-level protocol developers, implementation developers, and core Filecoin researchers are invited to attend the meetings. Generally every Filecoin implementation  is represented, along with key members of research/scaling teams. Sometimes, a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [team@filecoin.io](mailto:team@filecoin.io).
+Low-level protocol developers, implementation developers, and core Filecoin researchers are invited to attend the meetings. Generally every Filecoin implementation  is represented, along with key members of research/scaling teams. Sometimes, a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [kaitlin@fil.org](mailto:kaitlin@fil.org).
 
 ### Agenda Items
 Agendas are posted to https://github.com/filecoin-project/tpm/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
@@ -44,3 +45,4 @@ Agendas are posted to https://github.com/filecoin-project/tpm/issues. Anyone is 
 ### Who Manages the Meetings
 As of August 2021, [@kaitlin-beegle](https://github.com/kaitlin-beegle) facilitates meetings, handles recordings, and publishes notes from the meetings.
 The meetings are independent of any organization. However, Protocol Labs pays for the videoconference software used in the meetings. See the IPFS [Host a Call](https://github.com/ipfs/team-mgmt/blob/master/HOST_A_CALL.md) instructions for guides on how to configure livestreaming.
+
