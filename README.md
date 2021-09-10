@@ -44,5 +44,7 @@ Agendas are posted to https://github.com/filecoin-project/tpm/issues. Anyone is 
 
 ### Who Manages the Meetings
 As of August 2021, [@kaitlin-beegle](https://github.com/kaitlin-beegle) facilitates meetings, handles recordings, and publishes notes from the meetings.
-The meetings are independent of any organization. However, Protocol Labs pays for the videoconference software used in the meetings. See the IPFS [Host a Call](https://github.com/ipfs/team-mgmt/blob/master/HOST_A_CALL.md) instructions for guides on how to configure livestreaming.
+The meetings are independent of any organization. However, the Filecoin Foundation pays for the videoconference software used in the meetings. 
+
+See the IPFS [Host a Call](https://github.com/ipfs/team-mgmt/blob/master/HOST_A_CALL.md) instructions for guides on how to configure livestreaming.
 
