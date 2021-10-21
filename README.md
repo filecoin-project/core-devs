@@ -35,6 +35,7 @@ The core devs meeting is a technical meeting intended to bring together various 
   26 | Thursday, September 9, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/65) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200026.md) | [recording](https://www.youtube.com/watch?v=QxYvfVCGPgE&t=2022s) |
   27 | Thursday, September 23, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/67) | [notes](https://github.com/filecoin-project/tpm/issues/69)| [recording](https://www.youtube.com/watch?v=ClebmO4OfWQ&t=4s) |
   28 | Thursday, October 7, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/70) | [notes](https://github.com/filecoin-project/tpm/issues/70#issuecomment-938009559) | [recording](https://youtu.be/ZKh754jAqHY) |
+  29 | Thursday, October 21, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/73) | notes | recording |
 
 ### Who Can Attend
 Low-level protocol developers, implementation developers, and core Filecoin researchers are invited to attend the meetings. Generally every Filecoin implementation  is represented, along with key members of research/scaling teams. Sometimes, a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [kaitlin@fil.org](mailto:kaitlin@fil.org).
