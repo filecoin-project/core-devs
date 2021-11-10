@@ -36,7 +36,7 @@ The core devs meeting is a technical meeting intended to bring together various 
   27 | Thursday, September 23, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/67) | [notes](https://github.com/filecoin-project/tpm/issues/69)| [recording](https://www.youtube.com/watch?v=ClebmO4OfWQ&t=4s) |
   28 | Thursday, October 7, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/70) | [notes](https://github.com/filecoin-project/tpm/issues/70#issuecomment-938009559) | [recording](https://youtu.be/ZKh754jAqHY) |
   29 | Thursday, October 21, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/73) | [notes](https://github.com/filecoin-project/tpm/issues/73#issuecomment-951350341) | [recording](https://youtu.be/1dp9OOBt2JU)|
-  30 | Thursday, November 4, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/75) | notes | recording|
+  30 | Thursday, November 4, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/75) | notes | [recording](https://www.youtube.com/watch?v=-ODA7hSgRcw)|
   31 | Thursday, November 18, 2021       | agenda | notes | recording|
 
 ### Who Can Attend
