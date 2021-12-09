@@ -1,5 +1,4 @@
-| Upgrade # | Upgrade name | Actors Version |                     FIPs included                    |  Epoch  |
-
+| Upgrade #         | Upgrade name | Actors Version |                     FIPs included                    |  Epoch  |
 |:-----------------:|:------------:|:--------------:|:----------------------------------------------------:|:-------:|
 |        v06        |    Kumquat   |     v2.2.0     |                       FIP-0004                       |  170000 |
 |        v07        |    Calico    |     v2.3.2     |                       FIP-0005                       |  265200 |
