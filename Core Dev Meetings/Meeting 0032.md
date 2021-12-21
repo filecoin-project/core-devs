@@ -1,4 +1,4 @@
-# Filecoin Core Devs Meeting #31 - 2021-12-02
+# Filecoin Core Devs Meeting #32 - 2021-12-02
 
 **Meeting Date/Time:** Thursday, December 2nd 2021, 16:00 UTC
 
