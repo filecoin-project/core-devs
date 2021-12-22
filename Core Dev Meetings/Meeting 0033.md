@@ -40,3 +40,6 @@
 * A community forum issue was opened for implementation teams and Core Devs to continue to weigh in on the proposed network timeline and FIP details.  It can be found [HERE](https://github.com/filecoin-project/tpm/discussions/85). 
     * Due to the holidays, the upgrade timeline will be agreed to asynchronously.  Please refer to the community forum issue linked above for the most up-to-date information.
 * Two new FIPs were briefly introduced to the Core Devs: the [Askv2 Protocol FIP](https://github.com/filecoin-project/FIPs/pull/224) (authored by Brenda Lee) and the [Datacap Removal FIP](https://github.com/filecoin-project/FIPs/pull/226) (authored by Deep Kapur).
+
+### Trusted Setup for Snap Deals FIP
+* Dragan Zurzin is overseeing the trusted setup process, which will commence on January 11. 
