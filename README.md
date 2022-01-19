@@ -40,7 +40,8 @@ The core devs meeting is a technical meeting intended to bring together various 
   31 | Thursday, November 18, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/76) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200031.md) | [recording](https://www.youtube.com/watch?v=nm6_s2GZuFs)|
   32 | Thursday, December 2, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/77) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200032.md) | [recording](https://www.youtube.com/watch?v=nSMrYugNbF8)|
   33 | Thursday, December 16, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/79) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200033.md) | [recording](https://www.youtube.com/watch?v=X4e5fhckbKw)
-  34 | Thursday, January 13, 2022       | [agenda](https://github.com/filecoin-project/tpm/issues/86) | notes | recording
+  34 | Thursday, January 13, 2022       | [agenda](https://github.com/filecoin-project/tpm/issues/86) | notes | [recording](https://youtu.be/a1wcjZm50Zo)
+  35 | Thursday, January 27, 2022       | [agenda](https://github.com/filecoin-project/tpm/issues/87) | notes | recording
 
 ### Who Can Attend
 Low-level protocol developers, implementation developers, and core Filecoin researchers are invited to attend the meetings. Generally every Filecoin implementation  is represented, along with key members of research/scaling teams. Sometimes, a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [kaitlin@fil.org](mailto:kaitlin@fil.org).
