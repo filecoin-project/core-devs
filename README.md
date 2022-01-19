@@ -40,7 +40,7 @@ The core devs meeting is a technical meeting intended to bring together various 
   31 | Thursday, November 18, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/76) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200031.md) | [recording](https://www.youtube.com/watch?v=nm6_s2GZuFs)|
   32 | Thursday, December 2, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/77) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200032.md) | [recording](https://www.youtube.com/watch?v=nSMrYugNbF8)|
   33 | Thursday, December 16, 2021       | [agenda](https://github.com/filecoin-project/tpm/issues/79) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200033.md) | [recording](https://www.youtube.com/watch?v=X4e5fhckbKw)
-  34 | Thursday, January 13, 2022       | [agenda](https://github.com/filecoin-project/tpm/issues/86) | notes | [recording](https://youtu.be/a1wcjZm50Zo)
+  34 | Thursday, January 13, 2022       | [agenda](https://github.com/filecoin-project/tpm/issues/86) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200034.md) | [recording](https://youtu.be/a1wcjZm50Zo)
   35 | Thursday, January 27, 2022       | [agenda](https://github.com/filecoin-project/tpm/issues/88) | notes | recording
 
 ### Who Can Attend
