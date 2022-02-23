@@ -48,6 +48,13 @@ The core devs meeting is a technical meeting intended to bring together various 
 ### Who Can Attend
 Low-level protocol developers, implementation developers, and core Filecoin researchers are invited to attend the meetings. Generally every Filecoin implementation  is represented, along with key members of research/scaling teams. Sometimes, a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [kaitlin@fil.org](mailto:kaitlin@fil.org).
 
+### Meeting Scheduling 
+Historically, Core Devs meetings have happened biweekly on Thursdays at 16:00 UTC. 
+
+However, as the Filecoin ecosystem continues to grow, this single meeting time has proven challenging for network contributors in certain Asian/Oceanic timezones. Beginning March 22, with Core Devs #38, the meeting will move to two biweekly meetings, both held on Thursday.  The first will be at 16:00 UTC, and the second at 00:00 UTC the following day. 
+
+Core Devs are welcome to attend one or both of these meetings, with updates prepared in advance and shared across all teams.  Guest presenters are asked to attend both meetings, if possible. 
+
 ### Agenda Items
 Agendas are posted to https://github.com/filecoin-project/tpm/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
 - The topic is technical in nature.
