@@ -51,8 +51,8 @@ The core devs meeting is a technical meeting intended to bring together various 
   42 | Thursday, May 5, 2022       | [agenda](https://github.com/filecoin-project/tpm/issues/99) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200042.md) | [meeting](https://www.youtube.com/watch?v=VngperRIaSw) 1 & meeting 2 (N/A)  |
   43 | Thursday, May 29, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/101) | notes | [meeting 1](https://www.youtube.com/watch?v=JlG-u8ZDzAs) & [meeting 2]() |
   44 | Thursday, June 2, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/102) | notes | meeting 1 & meeting 2 |
-  45 | Thursday, June 2, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/103) | notes | meeting 1 & meeting 2 |
-  46 | Thursday, June 2, 2022      | [agenda] | notes | meeting 1 & meeting 2 |
+  45 | Thursday, June 16, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/103) | notes | meeting 1 & meeting 2 |
+  46 | Thursday, June 30, 2022      | [agenda] | notes | meeting 1 & meeting 2 |
 
 ### Who Can Attend
 Low-level protocol developers, implementation developers, and core Filecoin researchers are invited to attend the meetings. Generally every Filecoin implementation  is represented, along with key members of research/scaling teams. Sometimes, a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [kaitlin@fil.org](mailto:kaitlin@fil.org).
