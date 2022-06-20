@@ -11,7 +11,8 @@ _These meeting notes are cumulative across both Meetings 1 & 2._
 ### Updates and Ideas from Filecoin Implementation Teams
 
 #### Venus
-* 
+* Updates to Venus-Market and Venus-Cluster remain ongoing. 
+* Team has integrated FVM changes and has synced to butterflynet.
 #### Forest 
 * Making great progress with actor testing; looking forward to beginning integration tests. 
   * Half the team will work on integration testing, while the other half prepares Forest for v16. 
