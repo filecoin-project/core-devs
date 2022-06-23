@@ -1,4 +1,4 @@
-# Filecoin Core Devs Meeting #43 - 2022-06-02
+# Filecoin Core Devs Meeting #44 - 2022-06-02
 
 **Meeting Date/Time:** Thursday, June 2nd 2022, 16:00 UTC & Friday, June 3rd 2022, 00:00 UTC
 
