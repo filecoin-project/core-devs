@@ -4,6 +4,8 @@
 
 **Meeting Recording:** See README
 
+**Meeting Recording:** https://docs.google.com/presentation/d/1QkXnJ4RrIQQjsyhzRi0kS_jsBjPD-fQlWIXF7A9nuLw/edit?usp=sharing
+
 **Attendance:** Forest (Chainsafe), Fuhon (Soramitsu), Venus (IPFSForce), Lotus (Protocol Labs), Filecoin Foundation, and Community representatives
 
 This week marked the beginning of the new Core Devs meeting format, with two biweekly meetings.  As previously communicated, Core Devs were invited to join either Meeting 1 or Meeting 2, depending on their timezone. For more information about scheduling, see the TPM repo README. 
