@@ -4,6 +4,8 @@
 
 **Meeting Recording:** See README
 
+**Meeting Recording:** https://docs.google.com/presentation/d/1LwycCVXTmfYKcRkC6EmSq9ud8Kxpq55ejaPjMTXQaSs/edit?usp=sharing
+
 **Attendance:** Forest (Chainsafe), Fuhon (Soramitsu), Lotus (Protocol Labs), Filecoin Foundation, and Community representatives
 
 Please note: this week, due to attendance, the second Core Devs call was cancelled.  
