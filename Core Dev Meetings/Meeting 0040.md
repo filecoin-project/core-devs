@@ -4,6 +4,8 @@
 
 **Meeting Recording:** See README
 
+**Meeting Slides:** https://docs.google.com/presentation/d/1XJr0ujvNiQJMIyMjqnBRVxZTqtxpM0k0gYXapbTcHZU/edit?usp=sharing
+
 **Attendance:** Forest (Chainsafe), Fuhon (Soramitsu), Lotus (Protocol Labs), Filecoin Foundation, and Community representatives
 
 _These meeting notes are cumulative across both Meetings 1 & 2._
