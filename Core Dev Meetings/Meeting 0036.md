@@ -4,6 +4,8 @@
 
 **Meeting Recording:** See README
 
+**Meeting Slides:** https://docs.google.com/presentation/d/1BLCMf466d3QZmPTGaMXpaHJM8H1zYylM9Oh_V6SQoL0/edit?usp=sharing
+
 **Attendance:** Forest (Chainsafe), Fuhon (Soramitsu), Venus (IPFSForce), Lotus (Protocol Labs), Filecoin Foundation, and Community representatives
 
 ### Updates and Ideas from Filecoin Implementation Teams
