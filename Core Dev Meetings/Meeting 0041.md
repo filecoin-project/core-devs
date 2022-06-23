@@ -1,8 +1,10 @@
-# Filecoin Core Devs Meeting #40 - 2022-04-21
+# Filecoin Core Devs Meeting #41 - 2022-04-21
 
 **Meeting Date/Time:** Thursday, April 21st 2022, 16:00 UTC & Friday, April 22nd 2022, 00:00 UTC
 
 **Meeting Recording:** See README
+
+**Meeting Slides:** https://docs.google.com/presentation/d/1sv1ypAuuHOggN8aztgillU6ko-bWWzMOa5sKH64swJA/edit?usp=sharing
 
 **Attendance:** Forest (Chainsafe), Fuhon (Soramitsu), Lotus (Protocol Labs), Filecoin Foundation, and Community representatives
 
