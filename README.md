@@ -52,7 +52,7 @@ The core devs meeting is a technical meeting intended to bring together various 
   43 | Thursday, May 29, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/101) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200043.md) | [meeting 1](https://www.youtube.com/watch?v=JlG-u8ZDzAs) & [meeting 2]() |
   44 | Thursday, June 2, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/102) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200044.md) | [meeting 1](https://youtu.be/j0Tin-r9vIg) & [meeting 2](https://www.youtube.com/watch?v=GJMtPTBmZfE) |
   45 | Thursday, June 16, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/103) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200045.md) | [meeting 1](https://www.youtube.com/watch?v=aQAho3bmUOw) & [meeting 2](https://www.youtube.com/watch?v=AB1aG1Mlc-Y) |
-  46 | Thursday, June 30, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/105) | notes | [meeting 1](https://www.youtube.com/watch?v=dY09LhYyyLw) & [meeting 2](https://www.youtube.com/watch?v=lkplUXZFvq8) |
+  46 | Thursday, June 30, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/105) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200046.md) | [meeting 1](https://www.youtube.com/watch?v=dY09LhYyyLw) & [meeting 2](https://www.youtube.com/watch?v=lkplUXZFvq8) |
   47 | Thursday, July 14, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/107) | notes | [meeting 1](https://www.youtube.com/watch?v=zHe72xR3KUM) & meeting 2 (N/A) |
 
 ### Who Can Attend
