@@ -4,7 +4,7 @@ Core Dev Group List
 
    **Attendance**                                                                                  
    Attendance will be ticked against each Core Dev meeting commencing Core Dev 52
-| S/N | Github Name    | Team                | 52  | 53  | 54  | 55  | 56  | 57  | 58  | 59  | 60  |
+| S/N | Github Name    | Team                    | 52  | 53  | 54  | 55  | 56  | 57  | 58  | 59  | 60  |
 | --- | ------------------ | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |                    |                     |     |     |     |     |     |     |     |     |     |
 | 1   | David Himmelstrup  | Forest              |     |     |     |     |     |     |     |     |     |
@@ -13,33 +13,41 @@ Core Dev Group List
 | 4   | Afri               | Forest              |     |     |     |     |     |     |     |     |     |
 | 5   | Connor             | Forest              |     |     |     |     |     |     |     |     |     |
 | 6   | Joshua Jones       | Forest              |     |     |     |     |     |     |     |     |     |
-| 7   | Amer               | Forest              |     |     |     |     |     |     |     |     |     |
-| 8   | David A            | Forest              |     |     |     |     |     |     |     |     |     |
-| 9   | Lee Raj            | Forest              |     |     |     |     |     |     |     |     |     |
-| 10  | Steven Li          | Venus               |     |     |     |     |     |     |     |     |     |
-| 11  | Joss               | Venus               |     |     |     |     |     |     |     |     |     |
-| 12  | Boris              | Fission             |     |     |     |     |     |     |     |     |     |
-| 13  | Brooke             | Fission             |     |     |     |     |     |     |     |     |     |
-| 14  | Kaitlin Beegle     | Filecoin Foundation |     |     |     |     |     |     |     |     |     |
-| 15  | Sonia              | Filecoin Foundation |     |     |     |     |     |     |     |     |     |
-| 16  | Jennifer Wang      | Lotus               |     |     |     |     |     |     |     |     |     |
-| 17  | Shrenuj            | Lotus               |     |     |     |     |     |     |     |     |     |
-| 18  | Aayush Rajasekaran | Lotus               |     |     |     |     |     |     |     |     |     |
-| 19  | zenground0         | Lotus               |     |     |     |     |     |     |     |     |     |
-| 20  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
-| 21  | Geoffrey Stuart    | Lotus               |     |     |     |     |     |     |     |     |     |
-| 22  | Alex North         | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 23  | Irene Giacomelli   | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 24  | Kubuxu             | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 25  | Nicola             | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 26  | Stebalien          | FVM                 |     |     |     |     |     |     |     |     |     |
-| 27  | raulk.             | FVM   |     |     |     |     |     |     |     |     |     |
-| 28  | Dragan             | FVM                    |     |     |     |     |     |     |     |     |     |
-| 29  | Honghao            | Bedrock             |     |     |     |     |     |     |     |     |     |
-| 30  | frrist             |Lily       |     |     |     |     |     |     |     |     |     |
-| 31  | Juan Benet         | Protocol Labs       |     |     |     |     |     |     |     |     |     |
-| 32  | Molly Mackinlay    | Protocol Labs       |     |     |     |     |     |     |     |     |     |
-| 33  | Nemo               | Fil-crypto          |     |     |     |     |     |     |     |     |     |
-| 34  | Whyrusleeping      | Outercore           |     |     |     |     |     |     |     |     |     |
-| 35  | ZX                 | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 36  | Vik                | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 7   | Lee Raj            | Forest              |     |     |     |     |     |     |     |     |     |
+| 8   | Steven Li          | Venus               |     |     |     |     |     |     |     |     |     |
+| 9   | Joss               | Venus               |     |     |     |     |     |     |     |     |     |
+| 10  | Kaitlin Beegle     | Filecoin Foundation |     |     |     |     |     |     |     |     |     |
+| 11  | Jennifer Wang      | Lotus               |     |     |     |     |     |     |     |     |     |
+| 12  | Shrenuj            | Lotus               |     |     |     |     |     |     |     |     |     |
+| 13  | Aayush Rajasekaran | Lotus               |     |     |     |     |     |     |     |     |     |
+| 14  | zenground0         | Lotus               |     |     |     |     |     |     |     |     |     |
+| 15  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
+| 16  | Wdaviau            | Lotus               |     |     |     |     |     |     |     |     |     |
+| 17  |Travisperson Observ | Lotus               |     |     |     |     |     |     |     |     |     |
+| 18  | Alex North         | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
+| 19  | Irene Giacomelli   | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
+| 20  | Kubuxu             | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
+| 21  | Nicola             | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
+| 22  | Stebalien          | FVM                 |     |     |     |     |     |     |     |     |     |
+| 23  | raulk.             | FVM                 |     |     |     |     |     |     |     |
+| 24  | Dragan             | FVM                 |     |     |     |     |     |     |     |     |     |
+| 25  | Dimitris Vyzovitis | FVM.                |     |     |     |     |     |     |     |     |     |
+| 26  | Honghao            | Bedrock             |     |     |     |     |     |     |     |     |     |
+| 27  | frrist             |Lily                 |     |     |     |     |     |     |     |     |     |
+| 28  | Juan Benet         | Protocol Labs       |     |     |     |     |     |     |     |     |     |
+| 29  | Molly Mackinlay    | Protocol Labs       |     |     |     |     |     |     |     |     |     |
+| 30  | Stefaan Vervaet    | Protocol Labs       |     |     |     |     |     |     |     |     |     |
+| 31  | Will Scott         | Protocol Labs       |     |     |     |     |     |     |     |     |     |
+| 32  | Ninitraver Observ  | Protocol Labs       |     |     |     |     |     |     |     |     |     |
+| 33  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
+| 34  | Nemo -Observer     | Fil-crypto          |     |     |     |     |     |     |     |     |     |
+| 35  | Whyrusleeping      | Outercore           |     |     |     |     |     |     |     |     |     |
+| 36  | ZX                 | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 37  | Vik                | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 38  | AX.                | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 39  | Juan Pablo         | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 40  | Luca.              | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 41  | Tom.               | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 42  | Shyam Sridhar      | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 43  | Scott Conner       | FilDev              |     |     |     |     |     |     |     |     |     |
+| 44  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
