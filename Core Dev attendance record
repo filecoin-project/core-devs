@@ -24,12 +24,12 @@ Core Dev Group List
 | 15  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
 | 16  | Wdaviau            | Lotus               |     |     |     |     |     |     |     |     |     |
 | 17  |Travisperson Observ | Lotus               |     |     |     |     |     |     |     |     |     |
-| 18  | Alex North         | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 19  | Irene Giacomelli   | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 20  | Kubuxu             | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 21  | Nicola             | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 22  | Luca.              | CryptoNetLab        |     |     |     |     |     |     |     |     |     |
-| 23  | Nickle             | CryptoNetLab        |     |     |     |     |     |     |     |     |     |
+| 18  |Orjan Roren.        | Lotus               |     |     |     |     |     |     |     |     |     |
+| 19  | Alex North         | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
+| 20  | Irene Giacomelli   | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
+| 21  | Kubuxu             | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
+| 22  | Nicola             | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
+| 23  | Luca.              | CryptoNetLab        |     |     |     |     |     |     |     |     |     |
 | 24  | Stebalien          | FVM                 |     |     |     |     |     |     |     |     |     |
 | 25  | raulk.             | FVM                 |     |     |     |     |     |     |     |
 | 26  | Dragan             | FVM                 |     |     |     |     |     |     |     |     |     |
@@ -38,21 +38,18 @@ Core Dev Group List
 | 29  | frrist             |Lily                 |     |     |     |     |     |     |     |     |     |
 | 30  | Juan Benet         | Protocol Labs       |     |     |     |     |     |     |     |     |     |
 | 31  | Molly Mackinlay    | Protocol Labs       |     |     |     |     |     |     |     |     |     |
-| 32  | Stefaan Vervaet    | Protocol Labs       |     |     |     |     |     |     |     |     |     |
-| 33  | Will Scott         | Protocol Labs       |     |     |     |     |     |     |     |     |     |
-| 34  | Ninitraver Observ  | Protocol Labs       |     |     |     |     |     |     |     |     |     |
-| 35  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
-| 36  | Nemo -Observer     | Fil-crypto          |     |     |     |     |     |     |     |     |     |
-| 37  | Whyrusleeping      | Outercore           |     |     |     |     |     |     |     |     |     |
-| 38  | ZX                 | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 39  | Vik                | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 40  | AX.                | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 41  | Juan Pablo         | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 42  | Tom.               | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 43  | Shyam Sridhar      | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 44  | Kiran Karra        | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 45  | Scott Conner       | FilDev              |     |     |     |     |     |     |     |     |     |
-| 46  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
-| 47  | Adlrocha           | ?                   |     |     |     |     |     |     |     |     |     |
-| 48  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
-| 49  | Why                | ?                   |     |     |     |     |     |     |     |     |     |
+| 32  | Will Scott         | Protocol Labs       |     |     |     |     |     |     |     |     |     |
+| 33  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
+| 34  | Whyrusleeping      | Outercore           |     |     |     |     |     |     |     |     |     |
+| 35  | ZX                 | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 36  | Vik                | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 37  | AX.                | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 38  | Juan Pablo         | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 39  | Tom.               | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 40  | Shyam Sridhar      | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 41  | Kiran Karra        | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
+| 42  | Scott Conner       | FilDev              |     |     |     |     |     |     |     |     |     |
+| 43  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
+| 44  | Adlrocha           | ?                   |     |     |     |     |     |     |     |     |     |
+| 45  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
+| 46  | Why                | ?                   |     |     |     |     |     |     |     |     |     |
