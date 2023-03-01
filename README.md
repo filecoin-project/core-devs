@@ -52,8 +52,8 @@ Though unlikely, anyone can propose the removal of someone as a Core Dev.  If a 
 The schedule for Core Dev meetings periodically changes, depending on needs. 
 
 Currently, meetings occur monthly for one hour.  Exact timing alternates every other month: 
-* 16:00 UTC on the first Thursday of the month (odd-numbered months) 
-* 00:00 UTC on the first Friday of the month (even-numbered months) 
+* 16:00 UTC on the first Thursday of the month (even-numbered months) 
+* 00:00 UTC on the first Friday of the month (odd-numbered months) 
 
 ## Agenda Items
 Agendas are posted to https://github.com/filecoin-project/tpm/issues. Anyone is welcome to add an item to the agenda.  Items should generally be technical in nature, and relate to FIPs, FRCs or other network standards, network upgrades, technical network operations, or security issues. 
