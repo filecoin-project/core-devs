@@ -57,7 +57,7 @@ Currently, meetings occur monthly for one hour.  Exact timing alternates every o
 * 00:00 UTC on the first Friday of the month (odd-numbered months) 
 
 ## Agenda Items
-Agendas are posted to https://github.com/filecoin-project/tpm/issues. Anyone is welcome to add an item to the agenda.  Items should generally be technical in nature, and relate to FIPs, FRCs or other network standards, network upgrades, technical network operations, or security issues. 
+Agendas are posted to https://github.com/filecoin-project/core-devs/issues. Anyone is welcome to add an item to the agenda.  Items should generally be technical in nature, and relate to FIPs, FRCs or other network standards, network upgrades, technical network operations, or security issues. 
 
 Please note that agenda items are accepted at the sole discretion of repo admins. 
 
