@@ -9,7 +9,7 @@ Core Devs provide a central pillar of technical expertise to the broader Filecoi
 
  №  | Date                             | Agenda         |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
-49 | Thursday, September 1, 2022      | [agenda](https://github.com/filecoin-project/core-devs/issues/110) | [notes]([https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200049.md](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting0049.md)) | [meeting](https://www.youtube.com/watch?v=Zm1eNpGK6Zw) |
+49 | Thursday, September 1, 2022      | [agenda](https://github.com/filecoin-project/core-devs/issues/110) | [notes]([https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting0049.md](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting0049.md)) | [meeting](https://www.youtube.com/watch?v=Zm1eNpGK6Zw) |
 50 | Thursday, October 6, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/111) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting%200050.md)| [meeting](https://www.youtube.com/watch?v=pvrGxhelIkU) |
 51 | Friday, November 11, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/120) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting0051.md)| [meeting](https://www.youtube.com/watch?v=NaaJ-pqzMxE) |
 52 | Thursday, December 1, 2022      | [agenda](https://github.com/filecoin-project/tpm/issues/122) | [notes](https://github.com/filecoin-project/tpm/blob/master/Core%20Dev%20Meetings/Meeting0052.md)| [meeting](https://youtu.be/v_ljI98Xrl8) |
