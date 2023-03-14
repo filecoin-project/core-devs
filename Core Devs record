@@ -4,49 +4,49 @@ Core Devs Group List
 
    **Record of Core-Devs**                                                                                  
    
-| S/N | Github Name    | Team                    | 52  | 53  | 54  | 55  | 56  | 57  | 58  | 59  | 60  |
-| --- | ------------------ | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |                    |                     |     |     |     |     |     |     |     |     |     |
-| 1   | David Himmelstrup  | Forest              |     |     |     |     |     |     |     |     |     |
-| 2   | Guillaume          | Forest              |     |     |     |     |     |     |     |     |     |
-| 3   | Hubert             | Forest              |     |     |     |     |     |     |     |     |     |
-| 4   | Afri               | Forest              |     |     |     |     |     |     |     |     |     |
-| 5   | Connor             | Forest              |     |     |     |     |     |     |     |     |     |
-| 6   | Joshua Jones       | Forest              |     |     |     |     |     |     |     |     |     |
-| 7   | Lee Raj            | Forest              |     |     |     |     |     |     |     |     |     |
-| 8   | Steven Li          | Venus               |     |     |     |     |     |     |     |     |     |
-| 9   | Joss               | Venus               |     |     |     |     |     |     |     |     |     |
-| 10  | Kaitlin Beegle     | Filecoin Foundation |     |     |     |     |     |     |     |     |     |
-| 11  | Jennifer Wang      | Lotus               |     |     |     |     |     |     |     |     |     |
-| 12  | Shrenuj            | Lotus               |     |     |     |     |     |     |     |     |     |
-| 13  | Aayush Rajasekaran | Lotus               |     |     |     |     |     |     |     |     |     |
-| 14  | zenground0         | Lotus               |     |     |     |     |     |     |     |     |     |
-| 15  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
-| 17  |Ørjan Røren         | Lotus               |     |     |     |     |     |     |     |     |     |
-| 18  | Alex North         | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 19  | Irene Giacomelli   | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 20  | Kubuxu             | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 21  | Nicola             | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 22  | Luca               | CryptoNet Lab       |     |     |     |     |     |     |     |     |     |
-| 23  | Stebalien          | FVM                 |     |     |     |     |     |     |     |     |     |
-| 24  | raul               | FVM                 |     |     |     |     |     |     |     |
-| 25  | Dragan             | FVM                 |     |     |     |     |     |     |     |     |     |
-| 26  | Dimitris Vyzovitis | FVM                 |     |     |     |     |     |     |     |     |     |
-| 27  | Honghao            | Bedrock             |     |     |     |     |     |     |     |     |     |
-| 28  | frrist             | Lily                |     |     |     |     |     |     |     |     |     |
-| 29  | Juan Benet         | Protocol Labs       |     |     |     |     |     |     |     |     |     |
-| 30  | Molly Mackinlay    | Protocol Labs       |     |     |     |     |     |     |     |     |     |
-| 31  | Will Scott         | Protocol Labs       |     |     |     |     |     |     |     |     |     |
-| 32  | Lukasz             | Lotus               |     |     |     |     |     |     |     |     |     |
-| 33  | Whyrusleeping      | Outercore           |     |     |     |     |     |     |     |     |     |
-| 34  | ZX                 | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 35  | Vik                | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 36  | AX                 | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 37  | Juan Pablo         | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 38  | Tom                | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 39  | Shyam Sridhar      | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 40  | Kiran Karra        | CryptoEconLab       |     |     |     |     |     |     |     |     |     |
-| 41  | Scott Conner       | FilDev              |     |     |     |     |     |     |     |     |     |
-| 42  | Adlrocha           | ConsensusLab        |     |     |     |     |     |     |     |     |     |
-| 43  | Why                | Bluesky             |     |     |     |     |     |     |     |     |     |
-| 44  | Deep Kapur         | Filecoin+           |     |     |     |     |     |     |     |     |     |
+| S/N | Github Name    | Team                    
+| --- | ------------------ | ------------------- 
+|     |                    |                     
+| 1   | David Himmelstrup  | Forest              
+| 2   | Guillaume          | Forest              
+| 3   | Hubert             | Forest              
+| 4   | Afri               | Forest              
+| 5   | Connor             | Forest              
+| 6   | Joshua Jones       | Forest              
+| 7   | Lee Raj            | Forest              
+| 8   | Steven Li          | Venus               
+| 9   | Joss               | Venus               
+| 10  | Kaitlin Beegle     | Filecoin Foundation 
+| 11  | Jennifer Wang      | Lotus               
+| 12  | Shrenuj            | Lotus               
+| 13  | Aayush Rajasekaran | Lotus               
+| 14  | zenground0         | Lotus               
+| 15  | Lukasz             | Lotus               
+| 17  |Ørjan Røren         | Lotus               
+| 18  | Alex North         | CryptoNet Lab       
+| 19  | Irene Giacomelli   | CryptoNet Lab       
+| 20  | Kubuxu             | CryptoNet Lab       
+| 21  | Nicola             | CryptoNet Lab       
+| 22  | Luca               | CryptoNet Lab       
+| 23  | Stebalien          | FVM                 
+| 24  | raul               | FVM                 
+| 25  | Dragan             | FVM                 
+| 26  | Dimitris Vyzovitis | FVM                 
+| 27  | Honghao            | Bedrock             
+| 28  | frrist             | Lily               
+| 29  | Juan Benet         | Protocol Labs       
+| 30  | Molly Mackinlay    | Protocol Labs       
+| 31  | Will Scott         | Protocol Labs       
+| 32  | Lukasz             | Lotus               
+| 33  | Whyrusleeping      | Outercore           
+| 34  | ZX                 | CryptoEconLab       
+| 35  | Vik                | CryptoEconLab      
+| 36  | AX                 | CryptoEconLab       
+| 37  | Juan Pablo         | CryptoEconLab       
+| 38  | Tom                | CryptoEconLab       
+| 39  | Shyam Sridhar      | CryptoEconLab       
+| 40  | Kiran Karra        | CryptoEconLab       
+| 41  | Scott Conner       | FilDev             
+| 42  | Adlrocha           | ConsensusLab        
+| 43  | Why                | Bluesky             
+| 44  | Deep Kapur         | Filecoin+           
