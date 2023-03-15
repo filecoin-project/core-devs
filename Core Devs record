@@ -5,8 +5,7 @@ Core Devs Group List
    **Record of Core-Devs**                                                                                  
    
 | S/N | Github Name    | Team                    
-| --- | ------------------ | ------------------- 
-|     |                    |                     
+| --- | ------------------ | -------------------               
 | 1   | David Himmelstrup  | Forest              
 | 2   | Guillaume          | Forest              
 | 3   | Hubert             | Forest              
@@ -37,14 +36,14 @@ Core Devs Group List
 | 29  | Juan Benet         | Protocol Labs       
 | 30  | Molly Mackinlay    | Protocol Labs       
 | 31  | Will Scott         | Protocol Labs                          
-| 33  | ZX                 | CryptoEconLab       
-| 34  | Vik                | CryptoEconLab      
-| 35  | AX                 | CryptoEconLab       
-| 36  | Juan Pablo         | CryptoEconLab       
-| 37  | Tom                | CryptoEconLab       
-| 38  | Shyam Sridhar      | CryptoEconLab       
-| 39  | Kiran Karra        | CryptoEconLab       
-| 40  | Scott Conner       | FilDev             
-| 41  | Adlrocha           | ConsensusLab        
-| 42  | Why                | Bluesky             
-| 43  | Deep Kapur         | Filecoin+           
+| 32  | ZX                 | CryptoEconLab       
+| 33  | Vik                | CryptoEconLab      
+| 34  | AX                 | CryptoEconLab       
+| 35  | Juan Pablo         | CryptoEconLab       
+| 36  | Tom                | CryptoEconLab       
+| 37  | Shyam Sridhar      | CryptoEconLab       
+| 38  | Kiran Karra        | CryptoEconLab       
+| 39  | Scott Conner       | FilDev             
+| 40  | Adlrocha           | ConsensusLab        
+| 41  | Why                | Bluesky             
+| 42  | Deep Kapur         | Filecoin+           
