@@ -17,6 +17,7 @@ Core Devs provide a central pillar of technical expertise to the broader Filecoi
 54 | Thursday, February 2, 2023      | [agenda](https://github.com/filecoin-project/core-devs/issues/125) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting0054.md)| [meeting](https://youtu.be/5OxUyx_nrJA) |
 55 | Friday, March 3, 2023      | [agenda](https://github.com/filecoin-project/core-devs/issues/131) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting0055.md)| [meeting](https://youtu.be/6Bz8-jK3K18) |
 56 | Thursday, April 6, 2023      | [agenda](https://github.com/filecoin-project/core-devs/issues/134) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200056.md)| [meeting](https://youtu.be/upUHn21ZIlQ) |
+57 | Friday, May 5, 2023      | [agenda](https://github.com/filecoin-project/core-devs/issues/136) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200057.md)| [meeting](https://youtu.be/Fdm-eq8Ie6w) |
 
 A full record of all meetings can be found [HERE](https://www.youtube.com/@FilecoinProject). 
 
