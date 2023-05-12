@@ -9,7 +9,7 @@
 
 ## [Sector Terminations Discussion](https://github.com/filecoin-project/FIPs/discussions/691) 
 
-**Facilitated by Shyam Sridhar**
+**Facilitated by Shyam Sridhar** (CryptoEconLab)
 
 Filecoin as a network is seeing a steady increase in network terminations. Currently, termination fee structure is designed for 6 months sectors. 
 The purpose of this discssion as well as the discussion thread in Github is to determine if there is a problem that needs to be solved and discuss possible improvements and solutions to the problem. 
@@ -28,7 +28,7 @@ A public discussion thread has been started which is aimed at gathering communit
 
 
 ## Technical Discussion: Miner Protocol Change Dependencies 
-**Facilitated by Alex North**
+**Facilitated by Alex North** (CryptoNetLab)
 Alex North floated some ideas and changes aimed at improving utility and flexibility of storage by: 
 - Reducing onboarding frictions 
 - Improving programmability 
@@ -41,7 +41,7 @@ Additional work is still ongoing to map these dependencies and improvements. Mor
 
     
 ## Network v19 (Lightning Upgrade) Updates
-**Facilitated by the Aayush Rajasekran**
+**Facilitated by the Aayush Rajasekran** (Lotus)
 
 The Lightning Upgrade successfully landed on mainnet as a reult of collaborative efforts of all teams given the need to expedite the upgrade. A deeper retro session on this upgrade will be held during the next Core Devs call. 
 
