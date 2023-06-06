@@ -1,6 +1,6 @@
 # Core Dev Meeting #57 
 
-**Meeting Date & Time:** Friday 6, April 2023 00:00 UTC
+**Meeting Date & Time:** Friday 5, May 2023 00:00 UTC
 
 **Meeting Recording:** 
 
