@@ -1,6 +1,6 @@
 # Core Dev Meeting #58 
 
-**Meeting Date & Time:** Thursday 1, June 2023 00:00 UTC
+**Meeting Date & Time:** Thursday 1, June 2023 16:00 UTC
 
 **Meeting Recording:** 
 
