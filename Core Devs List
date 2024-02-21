@@ -1,47 +1,41 @@
-Core Devs Membership List                            
-
----
-
-| S/N | Github Name         | Team                     |
-| --- | ------------------- | ------------------------ |
-| 1   | David Himmelstrup   | Forest                   |
-| 2   | Guillaume           | Forest                   |
-| 3   | Hubert              | Forest                   |
-| 4   | Afri                | Forest                   |
-| 5   | Roman Useinov       | Forest (Chainsafe)       |
-| 6   | Steven Li           | Venus                    |
-| 7   | Alanxu              | Venus                    |
-| 8   | Kaitlin Beegle      | Filecoin Foundation      |
-| 9   | Stef Magdalinski    | Filecoin Foundation [Observer] |
-| 10  | Jennifer Wang       | Lotus                    |
-| 11  | Aayush Rajasekaran  | Lotus                    |
-| 12  | zenground0          | Lotus                    |
-| 13  | Lukasz              | Lotus                    |
-| 14  | Ørjan Røren         | Lotus                    |
-| 15  | Alex North          | CryptoNet Lab            |
-| 16  | Irene Giacomelli    | CryptoNet Lab            |
-| 17  | Kubuxu              | CryptoNet Lab            |
-| 18  | Nicola              | CryptoNet Lab            |
-| 19  | Luca                | CryptoNet Lab            |
-| 20  | Stebalien           | FVM                      |
-| 21  | raul                | FVM                      |
-| 22  | Dragan              | FVM                      |
-| 23  | Dimitris Vyzovitis  | FVM                      |
-| 24  | Fridrik Asmundsson  | FVM [OBSERVER]           |
-| 25  | Juan Benet          | Protocol Labs            |
-| 26  | Molly Mackinlay     | Protocol Labs            |
-| 27  | Lauren Spiegel      | Protocol Labs            |
-| 28  | Will Scott          | Filecoin Incentive Design Labs |
-| 29  | ZX                  | CryptoEconLab            |
-| 30  | Vik                 | CryptoEconLab            |
-| 31  | AX                  | CryptoEconLab            |
-| 32  | Juan Pablo          | CryptoEconLab            |
-| 33  | Tom                 | CryptoEconLab            |
-| 35  | Kiran Karra         | CryptoEconLab            |
-| 36  | Jsoares             | ConsensusLab             |
-| 37  | Adlrocha            | ConsensusLab             |
-| 38  | Marko Vukolić       | ConsensusLab             |
-| 39  | Why                 | Bluesky                  |
-| 40  | Deep Kapur          | Filecoin+                |
-| 41  | Andy Jackson        | Lotus Miner Lead         |
+| S/N | Github Name         | Team                             |
+| --- | ------------------- | -------------------------------- |
+| 1   | David Himmelstrup   | Forest                           |
+| 2   | Guillaume           | Forest                           |
+| 3   | Hubert              | Forest                           |
+| 4   | Roman Useinov       | Forest (Chainsafe)               |
+| 5   | Steven Li           | Venus                            |
+| 6   | Alanxu              | Venus                            |
+| 7   | Kaitlin Beegle      | Filecoin Foundation              |
+| 8   | Stef Magdalinski    | Filecoin Foundation [Observer]   |
+| 9   | Jennifer Wang       | Lotus                            |
+| 10  | Aayush Rajasekaran  | Lotus                            |
+| 11  | zenground0          | Lotus                            |
+| 12  | Lukasz              | Lotus                            |
+| 13  | Ørjan Røren         | Lotus                            |
+| 14  | Stebalien           | Lotus                            | 
+| 15  | Alex North          | CryptoNet Lab                    |
+| 16  | Irene Giacomelli    | CryptoNet Lab                    |
+| 17  | Kubuxu              | CryptoNet Lab                    |
+| 18  | Nicola              | CryptoNet Lab                    |
+| 19  | Luca                | CryptoNet Lab                    |
+| 20  | raul                | FVM                              |
+| 21  | Dragan              | FVM                              |
+| 22  | Fridrik Asmundsson  | FVM [OBSERVER]                   |
+| 23  | Juan Benet          | Protocol Labs                    |
+| 24  | Molly Mackinlay     | Protocol Labs                    |
+| 25  | Lauren Spiegel      | Protocol Labs                    |
+| 26  | Will Scott          | Filecoin Incentive Design Labs   |
+| 27  | ZX                  | CryptoEconLab                    |
+| 28  | Vik                 | CryptoEconLab                    |
+| 29  | AX                  | CryptoEconLab                    |
+| 30  | Juan Pablo          | CryptoEconLab                    |
+| 31  | Tom                 | CryptoEconLab                    |
+| 32  | Kiran Karra         | CryptoEconLab                    |
+| 33  | Jsoares             | ConsensusLab                     |
+| 34  | Adlrocha            | ConsensusLab                     |
+| 35  | Marko Vukolić       | ConsensusLab                     |
+| 36  | Why                 | Bluesky                          |
+| 37  | Deep Kapur          | Filecoin+                        |
+| 38  | Andy Jackson        | Lotus Miner Lead                 |
 
