@@ -29,6 +29,10 @@ Core Devs provide a central pillar of technical expertise to the broader Filecoi
 66 | Thursday, February 1, 2024      | [agenda](https://github.com/filecoin-project/core-devs/issues/161) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200066.md)| [meeting](https://youtu.be/LzlRbDnsZtw) |
 67 | Thursday, March 7, 2024      | Meeting Cancelled |
 68 | Thursday, April 4, 2024      | [agenda](https://github.com/filecoin-project/core-devs/issues/168) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200068.md)| [meeting](https://youtu.be/cYG0o1sG9L8) |
+69 | Ad hoc meeting uncrecorded |
+70 | Friday, May 3, 2024      | [agenda](https://github.com/filecoin-project/core-devs/issues/171) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200070.md)| [meeting](https://youtu.be/VHvkIHcGdUM) |
+
+
 
 A full record of all meeting notes can be found [HERE](https://github.com/filecoin-project/core-devs/tree/master/Core%20Dev%20Meetings). 
 
