@@ -1,7 +1,7 @@
 # Core Devs Meetings
 
 ## Purpose
-The core devs meeting is a technical meeting intended to bring together various Filecoin teams who play major roles in determining the direction of the protocol. Filecoin implementation and research teams provide updates to their projects, discuss the implementation of various [FIPs](https://github.com/filecoin-project/FIPs), set priorities for network upgrades, and are convened for decisionmaking in the instance of a network -critical security breach or bug. 
+The core devs meeting is a technical meeting intended to bring together various Filecoin teams who play major roles in determining the direction of the protocol. Filecoin implementation and research teams provide updates to their projects, discuss the implementation of various [FIPs](https://github.com/filecoin-project/FIPs), set priorities for network upgrades, and are convened for decision-making in the instance of a network-critical security breach or bug. 
 
 Core Devs provide a central pillar of technical expertise to the broader Filecoin community as we work to build a decentralized, efficient, and robust foundation for humanity’s most important information.
 
@@ -29,7 +29,7 @@ Core Devs provide a central pillar of technical expertise to the broader Filecoi
 66 | Thursday, February 1, 2024      | [agenda](https://github.com/filecoin-project/core-devs/issues/161) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200066.md)| [meeting](https://youtu.be/LzlRbDnsZtw) |
 67 | Thursday, March 7, 2024      | Meeting Cancelled |
 68 | Thursday, April 4, 2024      | [agenda](https://github.com/filecoin-project/core-devs/issues/168) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200068.md)| [meeting](https://youtu.be/cYG0o1sG9L8) |
-69 | Ad hoc meeting uncrecorded |
+69 | Ad hoc meeting unrecorded |
 70 | Friday, May 3, 2024      | [agenda](https://github.com/filecoin-project/core-devs/issues/171) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200070.md)| [meeting](https://youtu.be/VHvkIHcGdUM) |
 
 
@@ -39,7 +39,7 @@ A full record of all meeting notes can be found [HERE](https://github.com/fileco
 ## Who Can Attend
 As an open source project, anyone is able to contribute their work, skills, or other expertise to Filecoin.  Individuals do not need to be 'Core Devs' to develop the Filecoin tech stack, or make meaningful contributions to the Filecoin community. 
 
-Typically, core devs are individuals who have 1) been involved in the project for a long time, are 2) deeply knowledge about the Filecoin protocol and related subsystems, and 3) are interested in committing their time and expertise to reviewing work and contributing technical guidance outside of their immediate work domain. Furthermore, individuals who serve as Core Devs are publicly known, expected to participate in monthly Core Devs meetings, and are included in closed communication channels in order to discuss technical issues related to the security and development of the Filecoin protocol. 
+Typically, core devs are individuals who have 1) been involved in the project for a long time, are 2) deeply knowledgeable about the Filecoin protocol and related subsystems, and 3) are interested in committing their time and expertise to reviewing work and contributing technical guidance outside of their immediate work domain. Furthermore, individuals who serve as Core Devs are publicly known, expected to participate in monthly Core Devs meetings, and are included in closed communication channels in order to discuss technical issues related to the security and development of the Filecoin protocol. 
 
 ### Becoming a Core Dev
 * Anyone who wishes to become a Core Dev can send their request to the repo admin, Kaitlin Beegle (kaitlin@fil.org, or @kaitlin_FF on Slack) 
@@ -53,12 +53,12 @@ Occasionally, Filecoin community members may want or need to join a Core Devs me
    * They have expertise in a topic of discussion, and have been asked to contribute their knowledge. 
    * Their work is relevant to a series of Core Dev discussions (e.g., network upgrades) but they do not want to contribute as full Core Devs. 
 
-As a reminder, being a Core Dev means opting into a position of community leadership, lending your time to help move forward work and technical discussions for the entire Filecoin community.  Individuals can be signficant contributors to Filecoin and not serve as Core Devs. Please keep these expectations in mind when you request to observe or become a part of the group. 
+As a reminder, being a Core Dev means opting into a position of community leadership, lending your time to help move forward work and technical discussions for the entire Filecoin community.  Individuals can be significant contributors to Filecoin and not serve as Core Devs. Please keep these expectations in mind when you request to observe or become a part of the group. 
 
 If you'd like to be an observer, please send your request to Kaitlin via email (kaitlin@fil.org) and explain exactly how many meetings you expect to be able to attend. 
 
 ### Addendum: Removing a Core Dev
-Occassionally, the repo admins will review Core Dev attendance records and follow up with Core Devs who have been less engaged in the group.  These individuals will be reminded of group expectations and/or given the opportunity to step down as Core Devs. 
+Occasionally, the repo admins will review Core Dev attendance records and follow up with Core Devs who have been less engaged in the group.  These individuals will be reminded of group expectations and/or given the opportunity to step down as Core Devs. 
 
 Please note that Filecoin is a decentralized, global community.  As such, there are not currently any requirements for attendance or participation for Core Devs.  However, it is important that Core Devs be reachable, reliable, and engaged.  Anyone who wishes to maintain their status as a Core Dev is expected to be so. 
 
