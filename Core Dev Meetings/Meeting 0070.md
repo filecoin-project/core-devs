@@ -71,7 +71,7 @@ The discussion led by Jorge Soares explored ways to improve block finality on th
 
 ## Feedback & Next Steps
 - Community input will refine the testing and implementation of F3.
-- The implemetation and testing will be deployed across the next two upgrades. 
-- Governance timeline to be reviewed based on the improtance of this FIP. 
+- The implementation and testing will be deployed across the next two upgrades. 
+- Governance timeline to be reviewed based on the importance of this FIP. 
 
 
