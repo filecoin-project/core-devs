@@ -34,7 +34,7 @@ Core Devs provide a central pillar of technical expertise to the broader Filecoi
 71 | Thursday, June 6, 2024      | [agenda](https://github.com/filecoin-project/core-devs/issues/173) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200071.md)| [meeting](https://youtu.be/ARW5nUhnRlQ) |
 72 | Thursday, June 6, 2024      | Brussels Convening| 
 73 | Thursday, August 1, 2024      | [agenda](https://github.com/filecoin-project/core-devs/issues/176) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200073.md)| [meeting](https://youtu.be/ibkfXroadU8) |
-
+74 | Friday, August 6, 2024      | [agenda](https://github.com/filecoin-project/core-devs/issues/178) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200074.md)| [meeting](https://youtu.be/sneAmyEFAwU) |
 A full record of all meeting notes can be found [HERE](https://github.com/filecoin-project/core-devs/tree/master/Core%20Dev%20Meetings). 
 
 ## Who Can Attend
