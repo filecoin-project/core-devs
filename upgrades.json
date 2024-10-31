@@ -712,6 +712,7 @@
           "epoch": 2078794,
           "time": "2024-10-23T13:30:00Z",
           "actors": {
+            "_manifest": "bafy2bzaceax5zkysst7vtyup4whdxwzlpnaya3qp34rnoi6gyt4pongps7obw",
             "account": "bafk2bzacecwdkoknhok52hlddoetdkqfwohhv4bx6csu3x6o7aduryv5ufssu",
             "cron": "bafk2bzacebjbuz7fjjsmt6zsuk724ief7yhkzm3b4ghgtasbe2zr4rrwr2qaw",
             "datacap": "bafk2bzacebxssfq5qpdahcvypgxk3o34npc7br5vd6dwe3zdelpql5hil7auq",
