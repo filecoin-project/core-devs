@@ -690,6 +690,7 @@
           "epoch": 4461240,
           "time": "2024-11-20T23:00:00Z",
           "actors": {
+            "_manifest": "bafy2bzaceakwje2hyinucrhgtsfo44p54iw4g6otbv5ghov65vajhxgntr53u",
             "account": "bafk2bzacecia5zacqt4gvd4z7275lnkhgraq75shy63cphakphhw6crf4joii",
             "cron": "bafk2bzacecbyx7utt3tkvhqnfk64kgtlt5jlvv56o2liwczikgzfowk2cvqvk",
             "datacap": "bafk2bzacecrypcpyzidphfl3sf3vhrjbiwzu7w3hoole45wsk2bqpverw4tni",
