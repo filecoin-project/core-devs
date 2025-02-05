@@ -4,37 +4,31 @@
 | 2   | Guillaume            | Forest                           |
 | 3   | Hubert               | Forest                           |
 | 4   | Steven Li            | Venus                            |
-| 5   | Alanxu               | Venus                            |
-| 6   | Kaitlin Beegle       | Filecoin Foundation              |
 | 7   | Stef Magdalinski     | Filecoin Foundation [Observer]   |
 | 8   | Jennifer Wang        | FilOz                            |
 | 9   | zenground0           | FilOz                            |
-| 10  | Lukasz               | FilOz                            |
-| 11  | Ørjan Røren          | FilOz                            |
-| 12  | Stebalien            | FilOz                            |
-| 13  | Alex North           | FilOz                            |
-| 14  | Irene Giacomelli     | FilOz                            |
-| 15  | Kubuxu               | FilOz                            |
-| 16  | Nicola               | FilOz                            |
-| 17  | Luca                 | FilOz                            |
-| 18  | Molly Mackinlay      | FilOz                            |
-| 19  | Raul                 | FVM                              |
-| 20  | Dragan               | FVM                              |
-| 21  | Fridrik Asmundsson   | FVM [OBSERVER]                   |
-| 22  | Juan Benet           | Protocol Labs                    |
-| 23  | Will Scott           | Filecoin Incentive Design Labs   |
-| 24  | ZX                   | CryptoEconLab                    |
-| 25  | Vik                  | CryptoEconLab                    |
-| 26  | AX                   | CryptoEconLab                    |
-| 27  | Juan Pablo           | CryptoEconLab                    |
-| 28  | Tom                  | CryptoEconLab                    |
-| 29  | Kiran Karra          | CryptoEconLab                    |
-| 30  | Jsoares              | ConsensusLab                     |
-| 31  | Adlrocha             | ConsensusLab                     |
-| 32  | Marko Vukolić        | ConsensusLab                     |
-| 33  | Why                  | Bluesky                          |
-| 34  | Deep Kapur           | FIDL                             |
-| 35  | Andy Jackson         | Lotus Miner Lead                 |
-| 36  | Masih                | FilOz                            |
-| 37  | Hailong Mu           | Forest                           |
-| 38  | Shashank             | Forest                           |
+| 10  | Ørjan Røren          | FilOz                            |
+| 11  | Stebalien            | FilOz                            |
+| 12  | Alex North           | FilOz                            |
+| 13  | Irene Giacomelli     | FilOz                            |
+| 14  | Kubuxu               | FilOz                            |
+| 15  | Nicola               | FilOz                            |
+| 16  | Luca                 | FilOz                            |
+| 17  | Molly Mackinlay      | FilOz                            |
+| 18  | Raul                 | Interplanetary Consensus          |
+| 19  | Juan Benet           | Protocol Labs                    |
+| 20  | Will Scott           | Filecoin Incentive Design Labs   |
+| 21  | ZX                   | CryptoEconLab                    |
+| 22  | Vik                  | CryptoEconLab                    |
+| 23  | AX                   | CryptoEconLab                    |
+| 24  | Juan Pablo           | CryptoEconLab                    |
+| 25  | Tom                  | CryptoEconLab                    |
+| 26  | Kiran Karra          | CryptoEconLab                    |
+| 27  | Jsoares              | ConsensusLab                     |
+| 28  | Adlrocha             | ConsensusLab                     |
+| 29  | Why                  | Bluesky                          |
+| 30  | Andy Jackson         | Curio                            |
+| 31  | Lukasz               | Curio                            |
+| 32  | Masih                | FilOz                            |
+| 33  | Hailong Mu           | Forest                           |
+| 34  | Shashank             | Forest                           |
