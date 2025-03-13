@@ -624,7 +624,10 @@
         "0085",
         "0091",
         "0092",
-        ["0086", "F3 Soft Launch"]
+        [
+          "0086",
+          "F3 Soft Launch"
+        ]
       ],
       "activation": {
         "mainnet": {
@@ -732,6 +735,30 @@
             "verifiedregistry": "bafk2bzacedbvfxhxsdktslf2rto5kyiumvppoen2avbmpgh7ijsmkxjyua3s4"
           }
         }
+      }
+    },
+    {
+      "upgrade": 25,
+      "name": "Teep",
+      "actorsVersion": "v16.0.0",
+      "fips": [
+        "0097",
+        "0098",
+        "0100"
+      ],
+      "activation": {
+        "mainnet": {},
+        "calibrationnet": {}
+      }
+    },
+    {
+      "upgrade": 26,
+      "name": "Tock",
+      "actorsVersion": "v16.0.0",
+      "fips": [],
+      "activation": {
+        "mainnet": {},
+        "calibrationnet": {}
       }
     }
   ]
