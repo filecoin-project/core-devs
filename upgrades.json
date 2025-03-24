@@ -624,7 +624,10 @@
         "0085",
         "0091",
         "0092",
-        ["0086", "F3 Soft Launch"]
+        [
+          "0086",
+          "F3 Soft Launch"
+        ]
       ],
       "activation": {
         "mainnet": {
@@ -730,6 +733,78 @@
             "storagepower": "bafk2bzaceclefusmffhuuvtggrmadr3cwpwsgphtlj2wb222ztwwv5mssu5ea",
             "system": "bafk2bzacecybufhea4ah2vwtp4pqxotdfk2lnrgu6cw63jstysjzzcegio4ps",
             "verifiedregistry": "bafk2bzacedbvfxhxsdktslf2rto5kyiumvppoen2avbmpgh7ijsmkxjyua3s4"
+          }
+        }
+      }
+    },
+    {
+      "upgrade": 25,
+      "name": "Teep",
+      "actorsVersion": "v16.0.0",
+      "fips": [
+        "0097",
+        "0098",
+        "0100"
+      ],
+      "activation": {
+        "mainnet": {
+            "time": "2025-04-10"
+        },
+        "calibrationnet": {
+          "epoch": 2523454,
+          "time": "2025-03-26T23:00:00Z",
+          "actors": {
+            "_manifest": "bafy2bzacebokirhkko3apr76hblv5cezawbxvsyrib2gykfovru4r4d4rhgiq",
+            "account": "bafk2bzacebdj2i7layys2dybhtrb4lrau2dzaqly4omnuns3bvlduj52kz6o2",
+            "cron": "bafk2bzaceatxj4meu3ey65seye2r5zev3iipvx3c6m3gj5y3x3sxorzvmy2ye",
+            "datacap": "bafk2bzacebfcq3esrphbpgf7ukh7hfbzwoh4z7imtcehcrpnkrrcfnjyax2wo",
+            "eam": "bafk2bzacea5ntqqvkldavugdwfwvteb2u7vbqx36yxfabjydq6owfg54t6aiu",
+            "ethaccount": "bafk2bzaceb2d7np5w3btsa3omxf2vtt7oaxkv4ywrkdzftyqunoobz6ftg772",
+            "evm": "bafk2bzacebbopkorao4ptzbvuo5cmfpdudcf5argzy4qjfy3ewcq5tr2wcqqi",
+            "init": "bafk2bzaced7l425bajf7andfrq26bylr3abrz4o5rluvmf26po575yfw5f4zy",
+            "multisig": "bafk2bzaceavsrxbnx3x6j3jh22bnad2jqa7jehqvip3tmtsipfz4nl567fxys",
+            "paymentchannel": "bafk2bzaceck6jbxlcu6ctfhcpt3u2wnmh3mlkrrt5wuvkfxjkwkomwiaqnc4u",
+            "placeholder": "bafk2bzacedfvut2myeleyq67fljcrw4kkmn5pb5dpyozovj7jpoez5irnc3ro",
+            "reward": "bafk2bzaceakkqi7gdjh64fliznfd5cys75nz7udpxpfya77dnk2iyfcsm22qq",
+            "storagemarket": "bafk2bzacecu7so4kof34ighkoqluy6dhotrjprblxbg2fm5cy2idlehde4oro",
+            "storageminer": "bafk2bzacedbgj2vkcz7ubt65ny6suewae3esxqwieb6v4zfh4b6wldkdghhku",
+            "storagepower": "bafk2bzaceb4wzuk5ku4yqrojihpnlith3zbkpnwccdaqn7vdqnapj56ctsiok",
+            "system": "bafk2bzacedg7eilhpqlgidvrtskksn6s6b4enj4ztm6hrc4vbmcgdqh54esxu",
+            "verifiedregistry": "bafk2bzacec7q3upb43c6tagdzks3pmiwofphaiizqwqunk6zgbdsvhwdy7kow"
+          }
+        }
+      }
+    },
+    {
+      "upgrade": 26,
+      "name": "Tock",
+      "actorsVersion": "v16.0.0",
+      "fips": [],
+      "activation": {
+        "mainnet": {
+          "time": "2025-07-09"
+        },
+        "calibrationnet": {
+          "epoch": 2543614,
+          "time": "2025-04-02T23:00:00Z",
+          "actors": {
+            "_manifest": "bafy2bzacebokirhkko3apr76hblv5cezawbxvsyrib2gykfovru4r4d4rhgiq",
+            "account": "bafk2bzacebdj2i7layys2dybhtrb4lrau2dzaqly4omnuns3bvlduj52kz6o2",
+            "cron": "bafk2bzaceatxj4meu3ey65seye2r5zev3iipvx3c6m3gj5y3x3sxorzvmy2ye",
+            "datacap": "bafk2bzacebfcq3esrphbpgf7ukh7hfbzwoh4z7imtcehcrpnkrrcfnjyax2wo",
+            "eam": "bafk2bzacea5ntqqvkldavugdwfwvteb2u7vbqx36yxfabjydq6owfg54t6aiu",
+            "ethaccount": "bafk2bzaceb2d7np5w3btsa3omxf2vtt7oaxkv4ywrkdzftyqunoobz6ftg772",
+            "evm": "bafk2bzacebbopkorao4ptzbvuo5cmfpdudcf5argzy4qjfy3ewcq5tr2wcqqi",
+            "init": "bafk2bzaced7l425bajf7andfrq26bylr3abrz4o5rluvmf26po575yfw5f4zy",
+            "multisig": "bafk2bzaceavsrxbnx3x6j3jh22bnad2jqa7jehqvip3tmtsipfz4nl567fxys",
+            "paymentchannel": "bafk2bzaceck6jbxlcu6ctfhcpt3u2wnmh3mlkrrt5wuvkfxjkwkomwiaqnc4u",
+            "placeholder": "bafk2bzacedfvut2myeleyq67fljcrw4kkmn5pb5dpyozovj7jpoez5irnc3ro",
+            "reward": "bafk2bzaceakkqi7gdjh64fliznfd5cys75nz7udpxpfya77dnk2iyfcsm22qq",
+            "storagemarket": "bafk2bzacecu7so4kof34ighkoqluy6dhotrjprblxbg2fm5cy2idlehde4oro",
+            "storageminer": "bafk2bzacedbgj2vkcz7ubt65ny6suewae3esxqwieb6v4zfh4b6wldkdghhku",
+            "storagepower": "bafk2bzaceb4wzuk5ku4yqrojihpnlith3zbkpnwccdaqn7vdqnapj56ctsiok",
+            "system": "bafk2bzacedg7eilhpqlgidvrtskksn6s6b4enj4ztm6hrc4vbmcgdqh54esxu",
+            "verifiedregistry": "bafk2bzacec7q3upb43c6tagdzks3pmiwofphaiizqwqunk6zgbdsvhwdy7kow"
           }
         }
       }
