@@ -751,8 +751,8 @@
             "time": "2025-04-10"
         },
         "calibrationnet": {
-          "epoch": 2520574,
-          "time": "2025-03-25T23:00:00Z",
+          "epoch": 2523454,
+          "time": "2025-03-26T23:00:00Z",
           "actors": {
             "_manifest": "bafy2bzacebokirhkko3apr76hblv5cezawbxvsyrib2gykfovru4r4d4rhgiq",
             "account": "bafk2bzacebdj2i7layys2dybhtrb4lrau2dzaqly4omnuns3bvlduj52kz6o2",
@@ -785,8 +785,8 @@
           "time": "2025-07-09"
         },
         "calibrationnet": {
-          "epoch": 2540734,
-          "time": "2025-04-01T23:00:00Z",
+          "epoch": 2543614,
+          "time": "2025-04-02T23:00:00Z",
           "actors": {
             "_manifest": "bafy2bzacebokirhkko3apr76hblv5cezawbxvsyrib2gykfovru4r4d4rhgiq",
             "account": "bafk2bzacebdj2i7layys2dybhtrb4lrau2dzaqly4omnuns3bvlduj52kz6o2",
