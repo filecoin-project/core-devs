@@ -1,5 +1,6 @@
 # Filecoin Core Devs Monthly Meeting Notes
 Recording: https://danny.spesh.com/video/coredevs-2025-08-07/GMT20250807-150442_Recording_1790x920.mp4
+
 **August 7, 2025**
 
 ## Welcome Michael Madoff - New Head of Governance
