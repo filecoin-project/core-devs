@@ -40,6 +40,7 @@ Core Devs provide a central pillar of technical expertise to the broader Filecoi
 77  | Thursday, February 6, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/188) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200077.md) | [meeting](https://youtu.be/RewkL5t_114) 
 78  | Thursday, March 6, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/190) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200078.md) | [meeting](https://youtu.be/ClAIBm_iZJw) 
 79  | Thursday, March 13, 2025  | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200079.md) | [meeting](https://youtu.be/Vr6QfkFpNRA) 
+82  | Thursday, August 14, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/199#issue-3292238697) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200082.md) | [meeting](https://danny.spesh.com/video/coredevs-2025-08-07/GMT20250807-150442_Recording_1790x920.mp4) 
 
 
 A full record of all meeting notes can be found [HERE](https://github.com/filecoin-project/core-devs/tree/master/Core%20Dev%20Meetings). 
@@ -50,7 +51,7 @@ As an open source project, anyone is able to contribute their work, skills, or o
 Typically, core devs are individuals who have 1) been involved in the project for a long time, are 2) deeply knowledgeable about the Filecoin protocol and related subsystems, and 3) are interested in committing their time and expertise to reviewing work and contributing technical guidance outside of their immediate work domain. Furthermore, individuals who serve as Core Devs are publicly known, expected to participate in monthly Core Devs meetings, and are included in closed communication channels in order to discuss technical issues related to the security and development of the Filecoin protocol. 
 
 ### Becoming a Core Dev
-* Anyone who wishes to become a Core Dev can send their request to the repo admin, Kaitlin Beegle (kaitlin@fil.org, or @kaitlin_FF on Slack) 
+* Anyone who wishes to become a Core Dev can send their request to the repo admin, Tanisha Katara (tanisha@fil.org, or @tanishakatara on Slack) 
 * Your request will be flagged for existing Core Devs, who are asked to consider your inclusion according to open source principles of [thoughtful meritocracy](https://postmeritocracy.org/). 
 * If no one opposes your inclusion, you will be added to the meeting invite and all private groups.  You will be listed publicly as a Core Dev. 
 * If anyone raises meaningful opposition to your inclusion, a simple majority vote to accept or reject your request will be levied at the next Core Devs meeting.
@@ -63,7 +64,7 @@ Occasionally, Filecoin community members may want or need to join a Core Devs me
 
 As a reminder, being a Core Dev means opting into a position of community leadership, lending your time to help move forward work and technical discussions for the entire Filecoin community.  Individuals can be significant contributors to Filecoin and not serve as Core Devs. Please keep these expectations in mind when you request to observe or become a part of the group. 
 
-If you'd like to be an observer, please send your request to Kaitlin via email (kaitlin@fil.org) and explain exactly how many meetings you expect to be able to attend. 
+If you'd like to be an observer, please send your request to Tanisha via email (tanisha@fil.org) and explain exactly how many meetings you expect to be able to attend. 
 
 ### Addendum: Removing a Core Dev
 Occasionally, the repo admins will review Core Dev attendance records and follow up with Core Devs who have been less engaged in the group.  These individuals will be reminded of group expectations and/or given the opportunity to step down as Core Devs. 
@@ -85,7 +86,7 @@ Agendas are posted to https://github.com/filecoin-project/core-devs/issues. Anyo
 Please note that agenda items are accepted at the sole discretion of repo admins. 
 
 ## Who Manages the Meetings
-As of August 2021, [@kaitlin-beegle](https://github.com/kaitlin-beegle) is the primary repo admin.  
+As of August 2025, [@tanisha-fil](https://github.com/tanisha-fil) is the primary repo admin.  
 
 The meetings are independent of any organization. However, the Filecoin Foundation pays for the videoconference software used in the meetings. 
 
