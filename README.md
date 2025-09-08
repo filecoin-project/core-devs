@@ -41,6 +41,8 @@ Core Devs provide a central pillar of technical expertise to the broader Filecoi
 78  | Thursday, March 6, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/190) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200078.md) | [meeting](https://youtu.be/ClAIBm_iZJw) 
 79  | Thursday, March 13, 2025  | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200079.md) | [meeting](https://youtu.be/Vr6QfkFpNRA) 
 82  | Thursday, August 14, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/199#issue-3292238697) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200082.md) | [meeting](https://danny.spesh.com/video/coredevs-2025-08-07/GMT20250807-150442_Recording_1790x920.mp4) 
+83  | Friday, September 5, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/202) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200083.md) | [meeting (passcode: Y9Qx1qh*)](https://fil-org.zoom.us/rec/share/pPkLyzSELAKgaGLMZweInyZ3E06o27PCIbAs-jeErM27ZfNWWZbv-VYiNSTB1wFP.qC9jlqnjUCoqNmRW) 
+
 
 
 A full record of all meeting notes can be found [HERE](https://github.com/filecoin-project/core-devs/tree/master/Core%20Dev%20Meetings). 
