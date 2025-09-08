@@ -1,7 +1,8 @@
 # Filecoin Core Devs Monthly Meeting #83  
 **Date:** September 5, 2025  
 **Moderator:** [Tanisha Katara](www.tanishakatara.com)
-**Presentation:** [Here](https://docs.google.com/presentation/d/10mtgnrvE1_l0Bl07nQgH1f4ngHTps8sFoPiuOxYiEvs/edit?slide=id.g37bad0ebf69_0_15#slide=id.g37bad0ebf69_0_15))
+
+**Presentation:** [Here](https://docs.google.com/presentation/d/10mtgnrvE1_l0Bl07nQgH1f4ngHTps8sFoPiuOxYiEvs/edit?slide=id.g37bad0ebf69_0_15#slide=id.g37bad0ebf69_0_15)
 
 ---
 
