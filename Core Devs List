@@ -1,33 +1,28 @@
 | S/N | Github Name          | Team                             |
 | --- | -------------------  | -------------------------------- |
-| 2   | Guillaume            | Forest                           |
-| 3   | Hubert               | Forest                           |
-| 4   | Steven Li            | Venus                            |
-| 7   | Stef Magdalinski     | Filecoin Foundation [Observer]   |
-| 8   | Jennifer Wang        | FilOz                            |
-| 9   | zenground0           | FilOz                            |
-| 10  | Ørjan Røren          | FilOz                            |
-| 11  | Stebalien            | FilOz                            |
-| 12  | Alex North           | FilOz                            |
-| 13  | Irene Giacomelli     | FilOz                            |
-| 14  | Kubuxu               | FilOz                            |
-| 15  | Nicola               | FilOz                            |
-| 16  | Luca                 | FilOz                            |
-| 17  | Molly Mackinlay      | FilOz                            |
-| 18  | Raul                 | Interplanetary Consensus          |
-| 19  | Juan Benet           | Protocol Labs                    |
-| 20  | Will Scott           | Filecoin Incentive Design Labs   |
-| 21  | ZX                   | CryptoEconLab                    |
-| 22  | Vik                  | CryptoEconLab                    |
-| 23  | AX                   | CryptoEconLab                    |
-| 24  | Juan Pablo           | CryptoEconLab                    |
-| 25  | Tom                  | CryptoEconLab                    |
-| 26  | Kiran Karra          | CryptoEconLab                    |
-| 27  | Jsoares              | ConsensusLab                     |
-| 28  | Adlrocha             | ConsensusLab                     |
-| 29  | Why                  | Bluesky                          |
-| 30  | Andy Jackson         | Curio                            |
-| 31  | Lukasz               | Curio                            |
-| 32  | Masih                | FilOz                            |
-| 33  | Hailong Mu           | Forest                           |
-| 34  | Shashank             | Forest                           |
+| 1   | Guillaume            | Forest                           |
+| 2   | Hubert               | Forest                           |
+| 3   | Steven Li            | Venus                            |
+| 4   | Jennifer Wang        | FilOz                            |
+| 5   | zenground0           | FilOz                            |
+| 6   | Ørjan Røren          | FilOz                            |
+| 7   | Stebalien            | FilOz                            |
+| 8   | Alex North           | FilOz                            |
+| 9   | Irene Giacomelli     | FilOz                            |
+| 10  | Kubuxu               | FilOz                            |
+| 11  | Nicola               | FilOz                            |
+| 12  | Luca                 | FilOz                            |
+| 13  | Molly Mackinlay      | FilOz                            |
+| 14  | Juan Benet           | Protocol Labs                    |
+| 15  | Will Scott           | Filecoin Incentive Design Labs   |
+| 16  | ZX                   | CryptoEconLab                    |
+| 17  | Juan Pablo           | CryptoEconLab                    |
+| 18  | Tom                  | CryptoEconLab                    |
+| 19  | Kiran Karra          | CryptoEconLab                    |
+| 20  | Why                  | Bluesky                          |
+| 21  | Andy Jackson         | Curio                            |
+| 22  | Lukasz               | Curio                            |
+| 23  | Hailong Mu           | Forest                           |
+| 24  | Shashank             | Forest                           |
+| 25  | Biglep               | FilOz                            |
+| 26  | Akaladarshi          | Forest                           |
