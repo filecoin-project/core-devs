@@ -42,6 +42,10 @@ Core Devs provide a central pillar of technical expertise to the broader Filecoi
 79  | Thursday, March 13, 2025  | | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200079.md) | [meeting](https://youtu.be/Vr6QfkFpNRA) 
 82  | Thursday, August 14, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/199#issue-3292238697) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200082.md) | [meeting](https://danny.spesh.com/video/coredevs-2025-08-07/GMT20250807-150442_Recording_1790x920.mp4) 
 83  | Friday, September 5, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/202) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200083.md) | [meeting (passcode: Y9Qx1qh*)](https://fil-org.zoom.us/rec/share/pPkLyzSELAKgaGLMZweInyZ3E06o27PCIbAs-jeErM27ZfNWWZbv-VYiNSTB1wFP.qC9jlqnjUCoqNmRW) 
+84  | Friday, October 2, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/204) | [notes](https://docs.google.com/presentation/d/1RbOUGmqcH1v5BO05nbCkHXyJZ93E1MTwLGaiWTxJFpQ/edit?slide=id.g19157ff4f70_0_0#slide=id.g19157ff4f70_0_0) | [meeting](https://fil-org.zoom.us/rec/share/pPkLyzSELAKgaGLMZweInyZ3E06o27PCIbAs-jeErM27ZfNWWZbv-VYiNSTB1wFP.qC9jlqnjUCoqNmRW) 
+85  | Friday, November 7, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/208) | [notes](https://docs.google.com/presentation/d/1PuDTGj0qN0VHeZsiLGbt7GyZC3vdy_2pS132qXHA33s/edit?slide=id.g19157ff4f70_0_0#slide=id.g19157ff4f70_0_0) | [meeting](https://fil-org.zoom.us/rec/share/pPkLyzSELAKgaGLMZweInyZ3E06o27PCIbAs-jeErM27ZfNWWZbv-VYiNSTB1wFP.qC9jlqnjUCoqNmRW) 
+86  | Tuesday, December 8, 2025  | [agenda](https://github.com/filecoin-project/core-devs/issues/211) | [notes](https://docs.google.com/presentation/d/1npLu6ufltSmEl8lZLCxHpiSBMOfnmN6pmYFIpXdDjn8/edit?slide=id.g19157ff4f70_0_0#slide=id.g19157ff4f70_0_0) | [meeting (passcode: w6L690m#)](https://fil-org.zoom.us/rec/share/EYiq_NZTVuhIKl2X04zevWd9k69CqDHCfVozrOnaSdYAK_fPLxfz0zS25t_b3Q6I.M_VA9oMFTLdseiNG?from=hub) 
+
 
 
 
