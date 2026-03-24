@@ -26,7 +26,7 @@ These meeting notes aggregate information shared in both meetings.
 #### Lotus 
 * OhSnap upgrade is officially lived! Also shipped Lotus v1.15, which includes client -facing retrieval updates. 
   * Since the upgrade, more than 260 'snap' deals have occured! 
-  * For more information on network usage and other statistics, Core Devs are encouraged to reach out the the Filecoin+ team (#fil-plus in Filecoin Project Slack)
+  * For more information on network usage and other statistics, Core Devs are encouraged to reach out the Filecoin+ team (#fil-plus in Filecoin Project Slack)
 * Currently working with FVM team to develop FIPs ahead of the v16 upgrade. 
 #### Forest 
 * Preparing for v16 upgrade; working closely with FVM and Lotus team. 
