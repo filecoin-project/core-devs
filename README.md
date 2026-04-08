@@ -73,7 +73,7 @@ Occasionally, Filecoin community members may want or need to join a Core Devs me
 
 As a reminder, being a Core Dev means opting into a position of community leadership, lending your time to help move forward work and technical discussions for the entire Filecoin community.  Individuals can be significant contributors to Filecoin and not serve as Core Devs. Please keep these expectations in mind when you request to observe or become a part of the group. 
 
-If you'd like to be an observer, please send your request to Tanisha via email (christian@fil.org) and explain exactly how many meetings you expect to be able to attend. 
+If you'd like to be an observer, please send your request to Christian via email (christian@fil.org) and explain exactly how many meetings you expect to be able to attend. 
 
 ### Addendum: Removing a Core Dev
 Occasionally, the repo admins will review Core Dev attendance records and follow up with Core Devs who have been less engaged in the group.  These individuals will be reminded of group expectations and/or given the opportunity to step down as Core Devs. 
@@ -85,7 +85,7 @@ Though unlikely, anyone can propose the removal of someone as a Core Dev.  If a 
 ## Meeting Scheduling 
 The schedule for Core Dev meetings periodically changes, depending on needs. 
 
-Currently, meetings occur monthly for one hour.  Exact timing alternates every other month: 
+Currently, meetings occur monthly for half an hour.  Exact timing alternates every other month and are curenntly schduled ad hoc but normal sessions are schduled on: 
 * 16:00 UTC on the first Thursday of the month (even-numbered months) 
 * 00:00 UTC on the first Friday of the month (odd-numbered months) 
 
