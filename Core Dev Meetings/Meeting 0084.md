@@ -1,4 +1,4 @@
-# 🧠 Core Devs Call #84 — Community Agenda  
+# 🧠 Core Devs Call #84 — Notes
 
 **📅 Date:** Thursday, October 2, 2025  
 **🕙 Time:** 08:00–09:00 PM GST (Dubai)  
