@@ -60,7 +60,7 @@ As an open source project, anyone is able to contribute their work, skills, or o
 Typically, core devs are individuals who have 1) been involved in the project for a long time, are 2) deeply knowledgeable about the Filecoin protocol and related subsystems, and 3) are interested in committing their time and expertise to reviewing work and contributing technical guidance outside of their immediate work domain. Furthermore, individuals who serve as Core Devs are publicly known, expected to participate in monthly Core Devs meetings, and are included in closed communication channels in order to discuss technical issues related to the security and development of the Filecoin protocol. 
 
 ### Becoming a Core Dev
-* Anyone who wishes to become a Core Dev can send their request to the repo admin, Tanisha Katara (christian@fil.org, or @christiantaylor on Slack) 
+* Anyone who wishes to become a Core Dev can send their request to the repo admin, Christian Taylor (christian@fil.org, or @christiantaylor on Slack) 
 * Your request will be flagged for existing Core Devs, who are asked to consider your inclusion according to open source principles of [thoughtful meritocracy](https://postmeritocracy.org/). 
 * If no one opposes your inclusion, you will be added to the meeting invite and all private groups.  You will be listed publicly as a Core Dev. 
 * If anyone raises meaningful opposition to your inclusion, a simple majority vote to accept or reject your request will be levied at the next Core Devs meeting.
