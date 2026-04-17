@@ -29,59 +29,165 @@ Region | Local Time | Date
 </body>
 </html>
 
-📌 Agenda Overview
-🎉 Welcome to Core Devs # 89
-Moderator: Christian Taylor
+# Core Devs 89 — Executive Summary
 
-📊 FIP Status & FIP Tracker — Coordination Point
+📝 Source: :contentReference[oaicite:0]{index=0}
 
-- Overview of current FIP pipeline status and progression across stages
-- Walkthrough of the FIP Tracker and how it is used today: https://tanisha-fil.github.io/fips-dashboard/fips-dashboard-static.html
-- [FIP 112: Moving to LAST CALL](https://github.com/filecoin-project/FIPs/pull/1220)
-- March 23rd ending period
-- [FIP 113: Moving to Draft](https://github.com/filecoin-project/FIPs/pull/1228)
-- [FIP 114 Moving to Draft](https://github.com/filecoin-project/FIPs/pull/1230)
-- [FIP 115: Pending Review and Discussion](https://github.com/filecoin-project/FIPs/pull/1233)
+---
 
-📦 Discussion: FIP-0113- secp256r1 (P-256) P256VERIFY Precompile for FEVM
+## Focus Areas
+**FIP Lifecycle · NV28 Finalization · Base Fee Mechanism (FIP-115) · F3 Recovery · FIP-100 Dashboard**
 
-- PR: https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0113.md
-- Introduces a P256VERIFY precompile to enable efficient verification of secp256r1 (P-256) signatures in the Filecoin EVM (FEVM).
-- Intended to support modern authentication systems such as passkeys, WebAuthn, and hardware security modules.
-- Defines a new reserved precompile address (0x0100) and specifies input format, success/failure behavior, and FEVM gas accounting.
-- Open Discussion thread: https://github.com/filecoin-project/FIPs/pull/1228
-- Open questions, requested feedback, and next steps for protocol or client teams
+---
 
-📦 Discussion: FIP-0114- Add Support for EIP-7939 (CLZ Opcode) in the FEVM
+## 1. FIP Lifecycle — Current Status
 
-- PR: https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0114.md
-- Proposes adding support for EIP-7939, introducing the CLZ (Count Leading Zeros) opcode to the Filecoin EVM (FEVM).
-- The opcode improves efficiency for low-level bit operations commonly used in cryptography, compression, and numeric algorithms.
-- Expected to improve performance and reduce gas costs for contracts that rely on bitwise calculations without requiring complex workarounds.
-- Open Discussion thread: https://github.com/filecoin-project/FIPs/pull/1230
-- Open questions, follow-ups, and next steps for protocol or client teams
+### In Progress
+- **FIP-112** → In **Last Call** (ending soon → expected Accepted)
+- **FIP-113 / FIP-114** → Moving to **Last Call**
+- **FIP-115** → Moving to **Draft** (post technical validation)
 
-📦 Discussion: FIP-0115- Premium Percentile Ratio
-PR: https://github.com/filecoin-project/FIPs/pull/1233
-Overview of the proposed fee mechanism and motivation behind the Premium Percentile Ratio
-Discussion of expected protocol impact, fee behavior, and any implementation considerations
-Potential FIP 0115
-Open Discussion thread: https://github.com/filecoin-project/FIPs/discussions/1236
-Open questions, requested feedback, and next steps for protocol or client teams
+### Direction
+- Prioritize FIPs already scoped for NV28  
+- Ensure lifecycle progression aligns with upgrade timeline  
 
-🚀 NV’28 Network Upgrade Planning
+---
 
-- Discussion Thread: [nv28 Network Upgrade Planning #205](https://github.com/filecoin-project/core-devs/discussions/205)
-- Discussion on upgrade scope, sequencing, and risk management
-- Community input on prioritization and avoiding feature overload in a single upgrade
+## 2. FIP-113 / FIP-114 — EVM Alignment Upgrades
 
-🏛 Governance Updates: FIP-100 Committee
+### What they do
+- Add EVM precompile + CLZ support (EIP-aligned changes)
+- Improve:
+  - Developer experience  
+  - Runtime efficiency  
+  - Cross-chain compatibility  
 
-- PR: [FIP-0100 committee doc & governance docs reorg FIPs#1219](https://github.com/filecoin-project/FIPs/pull/1219)
-- Latest updates from the FIP-100 Monitoring Committee
-- Governance documentation and process refinements
-- Alignment on upcoming milestones and next steps
+### Use Case
+- Reduce complexity for:
+  - Authentication (passkeys / secure enclaves)  
+  - Zero-knowledge systems  
+- Lower cost vs current Solidity implementations  
 
-📣 Want to propose or present an agenda item?
-Please comment directly in this GitHub thread with your suggested topics or requests for future calls.
-Looking forward to seeing everyone at Core Devs # 89! 🚀
+### Sentiment
+- Low complexity, low risk  
+- Strong alignment with Ethereum ecosystem  
+- **No objections — should proceed**
+
+---
+
+## 3. FIP-115 — Base Fee Mechanism (Critical Change)
+
+### Problem
+- Base fee not increasing → weak fee burn  
+- Caused by:
+  - Transaction overlap (TQ system)  
+  - Ineffective utilization-based model  
+
+### Proposed Fix
+- Shift to **premium-based (percentile) mechanism**  
+- Allows base fee to respond to real congestion signals  
+
+### Status
+- Lotus + Forest implementations complete  
+- Editor approvals received  
+- Moving toward **Draft → Last Call**
+
+### Risks / Considerations
+- Paradigm shift (moderate risk)  
+- Edge case: identical gas premiums → fallback to utilization  
+- Parameter sensitivity (percentiles, ratios)  
+
+### Direction
+- Request **independent technical validation** (e.g., Venus)  
+- Proceed if validation confirms correctness  
+
+---
+
+## 4. NV28 — Final Scope Alignment
+
+### Confirmed Pipeline
+- FIP-112  
+- FIP-113 / 114  
+- FIP-115 (pending validation)  
+
+### Likely Exclusions
+- **FIP-107 / Sealer ID** → deferred (bandwidth constraints)  
+- **FIP-86** → low priority  
+- F3 enhancements → not upgrade drivers  
+
+### Principle
+- Only include:
+  - Fully owned implementations  
+  - Realistic delivery candidates  
+
+---
+
+## 5. NV28 Timeline (Refined)
+
+- **Last Call Completion Target:** ~April 14  
+- **Code Freeze (Actors):** ~April 17  
+- **Upgrade Window:** Late May  
+
+👉 Dependent on FIP-115 readiness  
+
+---
+
+## 6. F3 — Recovery & Strategy
+
+### Current State
+- Network stalled due to **lack of quorum**  
+
+### Key Decisions
+- **Do NOT implement exponential backoff cap**
+  - Introduces additional risk  
+  - Does not solve current issue  
+
+### Recovery Path
+- Requires **new FIP** if restart needed  
+- Possible approaches:
+  - New certificate chain  
+  - Pre-approved checkpoint (social consensus)  
+
+### Core Problem
+- Restart alone insufficient  
+- Must address **participation decay / quorum sustainability**  
+
+---
+
+## 7. FIP-100 Dashboard — Governance Monitoring
+
+### Status
+- Dashboard reviewed by committee  
+- Feedback incorporated  
+
+### Current Gaps
+- Missing / inaccurate data points  
+- Dependency on Starboard for fixes  
+
+### Next Steps
+- Resolve data tracking at source  
+- Finalize before broader community release  
+
+---
+
+## Decisions (Net)
+
+- Advance **FIP-112 → Accepted** (pending no objections)  
+- Move **FIP-113 / 114 → Last Call**  
+- Push **FIP-115 → Draft → Last Call (with validation)**  
+- Lock **NV28 scope to realistic, owned items**  
+- Drop exponential backoff proposal (F3)  
+- Target **late May upgrade window**  
+
+---
+
+## Immediate Actions
+
+- Finalize FIP-112 (Last Call completion)  
+- Advance FIP-113 / 114 lifecycle  
+- Secure independent validation for FIP-115  
+- Confirm NV28 scope with implementers  
+- Update public upgrade timeline  
+- Resolve FIP-100 dashboard data gaps  
+
+---
