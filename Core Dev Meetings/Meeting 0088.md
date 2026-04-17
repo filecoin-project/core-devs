@@ -14,42 +14,147 @@ Region | Local Time | Date
 🕣 IST (India, UTC+5:30) | 08:30–09:00 PM | Tue Feb 24
 🕒 UTC | 03:00–03:30 PM | Tue Feb 24
 
-📌 Agenda Overview
-🎉 Welcome to Core Devs # 88
-Moderator: Christian Taylor
+# Core Devs 88 — Executive Summary
 
-🏛 Governance Updates: New Hire
-Newest team member: Christian Taylor
-Alignment on upcoming milestones and next steps
+📝 Source: :contentReference[oaicite:0]{index=0}
 
-📊 FIP Status & FIP Tracker — Coordination Point
-Overview of current FIP pipeline status and progression across stages
-Walkthrough of the FIP Tracker and how it is used today: https://tanisha-fil.github.io/fips-dashboard/fips-dashboard-static.html
-[FIP 0113 PR Approved, Moving to Draft Status](https://github.com/filecoin-project/FIPs/pull/1228)
-[FIP 0114: PR Approved, Moving to Draft Status](https://github.com/filecoin-project/FIPs/pull/1230)
+---
 
-📦 Discussion: Premium Percentile Ratio
-PR: [filecoin-project/FIPs: The Filecoin Improvement Proposal repository](https://github.com/filecoin-project/FIPs/pull/1233)
-Overview of the proposed fee mechanism and motivation behind the Premium Percentile Ratio
-Discussion of expected protocol impact, fee behavior, and any implementation considerations
-Potential FIP 0115
-Open Discussion thread: [Add FIP: Premium Percentile Ratio · filecoin-project/FIPs · Discussion #1236](https://github.com/filecoin-project/FIPs/discussions/1236)
-Open questions, requested feedback, and next steps for protocol or client teams
+## Focus Areas
+**FIP Progression · NV28 Scoping · Base Fee Mechanism · FIP-100 Dashboard**
 
-📦 Discussion: Export Sector Status
-PR: [Export Sector Status FIPs#1220](https://github.com/filecoin-project/FIPs/pull/1220)
-Current status of export sectors and observed network behavior
-Discussion of operational, performance, or UX challenges raised by the community
-Open questions, follow-ups, and next steps for protocol or client teams
-Potential FIP 0112
+---
 
-🚀 NV’28 Network Upgrade Planning
-Discussion Thread: [nv28 Network Upgrade Planning #205](https://github.com/filecoin-project/core-devs/discussions/205)
-Review of proposals currently under consideration for NV’28
-Discussion on upgrade scope, sequencing, and risk management
-Community input on prioritization and avoiding feature overload in a single upgrade
+## 1. FIP Progress — Current State
 
-📣 Want to propose or present an agenda item?
-Please comment directly in this GitHub thread with your suggested topics or requests for future calls.
-Looking forward to seeing everyone at Core Devs # 88! 🚀
-Deck for Call: https://docs.google.com/presentation/d/16NVKAsGIl0L9Yh11l8-UxmbMH17cMckkz5fy0Hsv56Q/edit?slide=id.g3bae32cf71d_2_297#slide=id.g3bae32cf71d_2_297
+### In Motion
+- **FIP-112 (Sector Status)** → Moving to **Last Call**
+- **FIP-113 / FIP-114** → Moving to **Draft**
+- **FIP-115** → Under active discussion
+
+### Direction
+- Continued alignment with Ethereum standards (EIP-based changes)
+- Use FIP Tracker as primary coordination layer going forward
+
+---
+
+## 2. FIP-112 — Sector Status (Near-Term Inclusion)
+
+### Status
+- Strong candidate for next upgrade (NV28)
+- Implementation owned and progressing
+
+### Delivery Expectation
+- ~1 week implementation + testing
+- Feasible for upcoming upgrade window
+
+---
+
+## 3. FIP-115 — Base Fee Mechanism (Key Discussion)
+
+### Problem
+- Base fee remains near minimum  
+- Current utilization-based model fails due to:
+  - Transaction overlap
+  - Mempool behavior inconsistencies  
+
+### Proposed Shift
+- Move from **utilization-based** → **gas premium–based** pricing
+
+### Intended Outcome
+- Better congestion detection  
+- More accurate fee adjustment  
+- Increased fee burn → reduced inflation  
+
+### Concerns Raised
+- Premium ≠ guaranteed proxy for utilization  
+- Heavy reliance on automated transactions (~90%)  
+- Requires improved gas estimation tooling  
+- Minimum base fee change seen as unnecessary  
+
+### Direction
+- Continue technical review  
+- Likely include in NV28 **if validated**  
+
+---
+
+## 4. NV28 — Scope and Reality Check
+
+### Pipeline (Current)
+- FIP-112 (high confidence)  
+- FIP-113 / 114 (feasible if pushed)  
+- FIP-115 (pending validation)  
+- FIP-107 + Sealer ID (likely deferred again)  
+- F3-related items (low priority)  
+- Additional minor / experimental items  
+
+### Constraints
+- **Primary blocker: implementation bandwidth**  
+- Several items lack active ownership  
+
+### Key Decisions
+- FIP-107 / Sealer ID → likely deferred (again)  
+- F3 calibration improvements → not a priority  
+- Fork signaling → useful but not upgrade-driving  
+
+### Principle
+- Only include items that:
+  - Have implementation owners  
+  - Can realistically meet timeline  
+
+---
+
+## 5. NV28 Timeline (Working Assumption)
+
+- **Last Call Requirement:** ~2 weeks minimum  
+- **Code Freeze Target:** End of March  
+- **Upgrade Window:** Likely April  
+
+👉 Timeline dependent on implementer capacity  
+
+---
+
+## 6. Emerging Direction — Alternative Paths
+
+- Sealer ID may be bypassed via **SNARK market approach**
+- Some improvements possible **without FIP changes**
+- Emphasis on faster iteration outside protocol where possible  
+
+---
+
+## 7. FIP-100 Dashboard — Governance Transparency
+
+### What’s New
+- Monitoring dashboard introduced (in review)
+- Tracks governance metrics and activity
+
+### Purpose
+- Deliver on transparency commitments  
+- Provide visibility into FIP-100 oversight  
+
+### Current Gaps
+- Some data not yet fully tracked  
+- Dependencies on external data sources (e.g., Starboard)  
+
+---
+
+## Decisions (Net)
+
+- Move **FIP-112 → Last Call immediately**  
+- Push **FIP-113 / 114 toward inclusion**  
+- Continue deep review on **FIP-115 (base fee change)**  
+- Defer **FIP-107 / Sealer ID (pending capacity)**  
+- Treat NV28 as **capacity-constrained upgrade**  
+
+---
+
+## Immediate Actions
+
+- Advance FIP-112 through Last Call  
+- Move FIP-113 / 114 through lifecycle quickly  
+- Continue technical validation on FIP-115  
+- Reconfirm NV28 scope at implementer call  
+- Update NV28 pipeline with realistic ownership  
+- Review and iterate on FIP-100 dashboard  
+
+---
