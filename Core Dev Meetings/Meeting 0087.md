@@ -18,52 +18,113 @@
 | 🕣 **IST (India, UTC+5:30)** | **08:30–09:00 PM** | Tue Jan 20 |
 | 🕒 **UTC** | **03:00–03:30 PM** | Tue Jan 20 |
 
----
+Core Devs 87 — Executive Summary
 
-## 📌 Agenda Overview  
+📝 Source:
 
-### 🎉 Welcome to Core Devs #87  
-- Moderator: Tanisha Katara  
+Focus Areas
 
----
+FIP Tracker · Sector Status PR · NV28 Planning · FIP-100 Governance
 
-### 📊 FIP Status & FIP Tracker — Community Feedback  
+1. FIP Tracker — Transparency Layer
 
-- Overview of current **FIP pipeline status** and progression across stages 
-- Walkthrough of the **FIP Tracker** and how it is used today: https://tanisha-fil.github.io/fips-dashboard/fips-dashboard-static.html
-- Discussion on community feedback, visibility gaps, and process friction  
-- Identifying opportunities to improve signaling, review velocity, and contributor clarity  
+What it is
 
----
+New UI for tracking FIP status outside GitHub
+Auto-updates every 6 hours
+Shows:
+FIP lifecycle stages
+Open PRs
+Activity timeline by month
 
-### 📦 Discussion: Export Sector Status  
+Why it matters
 
-- **PR:** https://github.com/filecoin-project/FIPs/pull/1220  
-- Current status of **export sectors** and observed network behavior  
-- Discussion of operational, performance, or UX challenges raised by the community  
-- Open questions, follow-ups, and next steps for protocol or client teams  
+Addresses visibility gaps for the community
+Reduces confusion around “stalled” FIPs
+Introduces lightweight governance transparency
 
----
+Feedback
 
-### 🚀 NV’28 Network Upgrade Planning  
+Positive initial reception
+Open for iteration
+2. Sector Status PR — FEVM Capability Expansion
 
-- **Discussion Thread:** https://github.com/filecoin-project/core-devs/discussions/205  
-- Review of proposals currently under consideration for **NV’28**  
-- Discussion on upgrade scope, sequencing, and risk management  
-- Community input on prioritization and avoiding feature overload in a single upgrade  
+What it does
 
----
+Enables FEVM contracts to query Filecoin sector status
+Adds liveness check to miner actor
 
-### 🏛 Governance Updates: FIP-100 Committee  
+Primary Use Case
 
-- **PR:** https://github.com/filecoin-project/FIPs/pull/1219  
-- Latest updates from the **FIP-100 Monitoring Committee**  
-- Governance documentation and process refinements  
-- Alignment on upcoming milestones and next steps  
+Critical for Filecoin on-chain cloud (ProRep integration)
+Unlocks smart contract awareness of storage state
 
----
+Implementation Reality
 
-📣 **Want to propose or present an agenda item?**  
-Please comment directly in this GitHub thread with your suggested topics or requests for future calls.
+Lightweight (~1–2 weeks total incl. testing)
+Minimal performance or UX concerns
+Backed by existing draft implementation
 
-Looking forward to seeing everyone at **Core Devs #87**! 🚀
+Status
+
+Ready to move to Last Call
+3. NV28 — Pipeline Taking Shape
+
+Current Direction
+
+Active pipeline building with multiple inputs
+Includes:
+Sector status FIP (above)
+Deferred FIPs from NV27 (e.g., FIP-0107)
+F3-related fixes
+New gas / network health investigations
+
+New Risk Flag
+
+Deal payment exporter messages consuming high gas
+Potential fixes identified (not yet formalized as FIPs)
+
+Approach
+
+Capture everything early (even pre-FIP discussions)
+Enable implementers to plan capacity ahead
+4. F3 + Network Health (Emerging)
+Additional issues flagged for:
+Gas efficiency
+Message selection optimization
+Likely require FIPs if protocol-level changes
+
+👉 Still in analysis / discussion phase
+
+5. FIP-100 Committee — Governance Structure
+
+What shipped
+
+Charter now published
+Defines:
+Roles and responsibilities
+Reporting structure
+Process and cadence
+
+Design Principle
+
+Temporary oversight body
+Goal = sunset into community-led monitoring
+
+Operational Updates
+
+Async reporting system live (Slack-based)
+Public reporting to GitHub in progress
+Data collection pipeline still being built
+Decisions (Net)
+Move sector status FIP toward Last Call
+Include it in NV28 pipeline (no objections)
+Track NV28 inputs early, even pre-FIP
+Push governance transparency (tracker + FIP-100)
+Immediate Actions
+Advance sector status FIP → Last Call
+Add all pipeline items to NV28 tracker
+Investigate gas inefficiency issues (formalize if needed)
+Review deferred NV27 FIPs (capacity check)
+Gather feedback on FIP tracker UI
+Continue FIP-100 reporting + data integration
