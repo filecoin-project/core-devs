@@ -1,6 +1,6 @@
 🧠 **Core Devs Call #92 — Community Agenda**
-📅 **Date:** Not stated in transcript
-🕒 **Time:** Not stated in transcript
+📅 **Date:** June 30, 2026
+🕒 **Time:** 04:00–04:30 PM UTC
 👩‍💼 **Moderator:** Christian Taylor
 
 ## Core Devs 92 — Executive Summary
