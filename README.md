@@ -52,6 +52,7 @@ Core Devs provide a central pillar of technical expertise to the broader Filecoi
 91  | Tuesday, May 19, 2026  | [agenda](https://github.com/filecoin-project/core-devs/issues/220) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200091.md)) | Passcode: 022757 [meeting](https://fil-org.zoom.us/s/81113254352?pwd=gJ7LlkvVf0oh7SbPX5lbUWeiZ8hEyk.1&jst=2#success)
 92  | Tuesday, June 30, 2026  | [agenda](https://github.com/filecoin-project/core-devs/issues/222) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200092.md)) | [meeting](https://www.youtube.com/watch?v=yuVVX6ObdVE)
 93  | Wednesday, August 5, 2026  | [agenda](https://github.com/filecoin-project/core-devs/issues/223) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200093.md)) | [meeting](https://youtu.be/dogDmwEpCho)
+94  | Wednesday, August 5, 2026  | [agenda](https://github.com/filecoin-project/core-devs/issues/225) | [notes](https://github.com/filecoin-project/core-devs/blob/master/Core%20Dev%20Meetings/Meeting%200094.md)) | [meeting](https://youtu.be/it1ft03pI4A?si=60JbSPORPuuDPBRy)
 
 
 A full record of all meeting notes can be found [HERE](https://github.com/filecoin-project/core-devs/tree/master/Core%20Dev%20Meetings). 
