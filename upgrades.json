@@ -968,6 +968,43 @@
           }
         }
       }
+    },
+    {
+      "upgrade": 29,
+      "name": "Solstice",
+      "actorsVersion": "v19.0.1",
+      "fips": [
+        "0118"
+      ],
+      "activation": {
+        "mainnet": {
+          "epoch": null,
+          "time": null
+        },
+        "calibrationnet": {
+          "epoch": 4109133,
+          "time": "2026-09-28T12:59:30Z",
+          "actors": {
+            "_manifest": "bafy2bzaceastk5qjmpnaqeeq6whogrlcymyurzyq6jawkntdzwedaznw7amvy",
+            "account": "bafk2bzaceae7l4sbdybed5obaoen6couskj6feiisy7wgpjam2ztpwuj3cntu",
+            "cron": "bafk2bzaced42cq6vpmnhrqwh366vkzmqy4kcw3ndnei7pb6gaq7nsjecebvpy",
+            "datacap": "bafk2bzacecik6v2im3hllgctue2ineqybythz7nuniw6y6zxbaeemfzcfg4xo",
+            "eam": "bafk2bzaceav6fp7w4sudywf6rutl2o3b45mosnrckosj6tinzecenziduiq2i",
+            "ethaccount": "bafk2bzaceb54wd2osp57pctidqmnqkesjf3mvziwc2burld2uqgw2rtr5l5za",
+            "evm": "bafk2bzaceceiey6pgg2qfkqxhqyrlffyylq4gyefkza6uirnowshcuyixoquo",
+            "init": "bafk2bzaceb5t3gul76kxzpqc2ci3vu75rwi3y5r5wxfelnpdkzelowks6ke34",
+            "multisig": "bafk2bzacectb43we4mpxvtejyywdvprwvmvzhhdbxx2kf5tznegntsjamkn7i",
+            "paymentchannel": "bafk2bzaceafrj27pyjilccx6mgnfo4io4qa2qhug63zgie6gfhi3r3izzbbu2",
+            "placeholder": "bafk2bzacedfvut2myeleyq67fljcrw4kkmn5pb5dpyozovj7jpoez5irnc3ro",
+            "reward": "bafk2bzaceaqhdlwoeksdifssxk3mytvvjyvan62r5gpafthqynswnei3mj4yi",
+            "storagemarket": "bafk2bzaceb52qyu6sjcl3xcl24urbk4hkvz22ovfsx676lcsfvrvwvoijrsic",
+            "storageminer": "bafk2bzaceb4uaxxqyve6yygwx5sougkxqrlli2pta6ja2w3ioaypfgjqtm6hi",
+            "storagepower": "bafk2bzacecv2ohvm4gtmqyhxd3ujgb22cxse572w2ows3x2osg5s2vn5a27nq",
+            "system": "bafk2bzaceagfvqlucn6otxhvf2wid47robw6m7dnbfycgltehgzqox5lzs7ho",
+            "verifiedregistry": "bafk2bzacecv4xyghog76upx5q7liiizvr325moojo4texggnjdbb5n5hjcoce"
+          }
+        }
+      }
     }
   ]
 }
