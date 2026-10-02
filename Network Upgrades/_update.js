@@ -43,7 +43,7 @@ function generateMarkdown(data) {
     const number = `[${versionString}](./${versionString}.md)`
     let actorsVersion = upgrade.actorsVersion
     if (
-      upgrade.activation.mainnet.epoch != null &&
+      (upgrade.activation.mainnet.epoch != null || upgrade.activation.calibrationnet?.epoch != null) &&
       parseInt(actorsVersion.replace('v', '').split('.')[0]) >= 8
     ) {
       actorsVersion = `[${actorsVersion}](https://github.com/filecoin-project/builtin-actors/releases/tag/${actorsVersion})`
