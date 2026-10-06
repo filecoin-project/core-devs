@@ -978,8 +978,27 @@
       ],
       "activation": {
         "mainnet": {
-          "epoch": null,
-          "time": null
+          "epoch": 6470279,
+          "time": "2026-10-19T12:59:30Z",
+          "actors": {
+            "_manifest": "bafy2bzaceaq4m3amtcy35lbok2cwcdn7auyypkakqegw6oodf6imx2r5opyiu",
+            "account": "bafk2bzacecgttsyulmd4r2y64iw64x2t4w7tkh636tbtkemy37ume6fxtcjuu",
+            "cron": "bafk2bzaceci3omlvb6rcunen6khosncxzkzehbf5qpuguiv2ncmc3iwt2rmbs",
+            "datacap": "bafk2bzacecq7wmrliayx6kkwsct24pv6itlegszkcgyexjdfqr3b4mccrcvl2",
+            "eam": "bafk2bzacedikzpibaahzyrjg24ldr4jvjycr2zm5whm5fmqnjrz2fdzxb2pbo",
+            "ethaccount": "bafk2bzaceajtlll5ms37steebrk7r2mm3duyogisqo5p4yk2lbxy7wqjxgyfm",
+            "evm": "bafk2bzaceaufbdpwqvu6r7bbfpx4w4fw3cub27lm45wapyjfaiwesgvkrw5lm",
+            "init": "bafk2bzacea756nwbcdmq33sjf5rkfzkn2n6uhvimulp6caogh7wcffxvjkcsu",
+            "multisig": "bafk2bzacea2al7ljhlznjtmrv3j233z74y3f5zrmaiybko62xzu5eyvfax5nq",
+            "paymentchannel": "bafk2bzacebmt5izqzm7wis6lhvfqf7wkaepdesvwgogekujt543lnyz5lsgww",
+            "placeholder": "bafk2bzacedfvut2myeleyq67fljcrw4kkmn5pb5dpyozovj7jpoez5irnc3ro",
+            "reward": "bafk2bzacea5ga7xnnqnr6e4nqjgtijd3ifkglxd3scclhvuzawlymjzda4sgu",
+            "storagemarket": "bafk2bzaceao6lecmhkqy22lxqu7spxuttwgwyhlsht44vdnairmisxd526woa",
+            "storageminer": "bafk2bzacearasgifreov6nsjfjevtsxqj33sj6ig4edkfbintetvgx37g5neq",
+            "storagepower": "bafk2bzaceb6o62ybehjmk6lhzrrxxllbhhiax5yikkliz4rjf4acyiodcpnz2",
+            "system": "bafk2bzaceccbmcmiarj4r3ob66tefb77graozqiptfrmvfw6cfpm7hnopkk52",
+            "verifiedregistry": "bafk2bzacecay6na42k7qsywhsd6h7qm5wwwgqduqoz2cn6jtboijg6mqw3jag"
+          }
         },
         "calibrationnet": {
           "epoch": 4109133,
